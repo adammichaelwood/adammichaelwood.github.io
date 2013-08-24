@@ -13,3 +13,13 @@ body {
 	padding-top: 15px;
 	padding-bottom: 15px;
 }
+
+p {
+ text-align: justify;	
+ padding-right: 30px;
+ font-size: 16px;
+}
+
+p.lead {
+	padding-right: 0;
+}
