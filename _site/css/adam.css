@@ -14,27 +14,79 @@ body {
 	padding-bottom: 15px;
 }
 
-.page-header {
- font-family: georgia, 'Times New Roman', garamond, serif;
+.main-article {
+	font-family: georgia, 'Times New Roman', garamond, serif;
 }
 
-p {
-	font-family: georgia, 'Times New Roman', garamond, serif;
+.article-title, .article-headline {
+	font-family: inherit;
+}
+
+.article-title {
+	border-bottom: 1px solid #efefef;
+	margin-bottom: 10px;
+}
+
+.article-header {
+	margin-bottom: 24px;
+}
+
+
+.article-content {
+	-webkit-hyphens: auto;
+	-moz-hyphens: auto;
+	-ms-hyphens: auto;
+	-o-hyphens: auto;
+	hyphens: auto;
+	word-wrap: break-word;
+	color: #333333;
+}
+
+.main-article h1,
+.main-article h2,
+.main-article h3,
+.main-article h4,
+.main-article h5,
+.main-article h6 {
+	line-height: 1;
+	margin-top: 0;
+	text-rendering: optimizeLegibility; /*  voodoo to enable ligatures and kerning | https://developer.mozilla.org/en-US/docs/CSS/text-rendering */
+	color: #222222;
+}
+
+.main-article p {
 	text-align: justify;	
-	padding-right: 30px;
 	font-size: 20px;
-	line-height: 30px;
-	margin-bottom: 30px;
+	line-height: 32px;
+	margin-bottom: 32px;
 }
 
 p.lead {
-	padding-right: 0;
 	font-size: 24px;
 	line-height: 36px;
 	margin-bottom: 36px;
+	color: #222222;
 }
 
-.by-line p {
+.by-line {
 	text-align: right;
+	color: #999999;
+	font-size: 18px;
+	line-height: 24px;
+}
+
+.drop-cap:first-letter {
+	float: left;
+	margin: auto .25em auto auto;
+	padding: inherit;
+	font-size: 4em;
+	font-family: inherit;
+	line-height: 1;
+	text-indent: 0;
+	background: transparent;
+	color: inherit;
+}
+
+.article-tags {
 	color: #999999;
 }
