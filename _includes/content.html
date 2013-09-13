@@ -1,0 +1,30 @@
+<div class="main-article">
+	<div class="article-header">
+		<div class="article-title">
+			<h1 class="article-headline">
+				{{ page.title}}
+				{% if page.subtitle %} 
+					<br/><small>{{ page.subtitle}}</small>
+				{% endif %}
+			</h1>
+		</div>
+		{% if page.author %}
+			<div class="by-line ">
+				<span>by {{ page.author }}</span>
+			</div>
+		{% endif %}
+	</div> <!-- article header -->
+	{% if page.layout == 'home' %}
+		{% for post in site.posts %}
+			<h2>{{post.title}}</h2>
+				{% if post.description %}
+					<p>{{ post.description }}</p>
+				{% endif %}
+				{{ site.url }}{{ post.url }}
+		{% endfor %}
+	{% else %}
+	<div class="article-content">
+		{{ page.content }}
+	</div> <!-- /.article-content -->
+	{% endif %}
+</div> <!-- /.main-article -->
