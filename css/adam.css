@@ -40,6 +40,7 @@ body {
 	hyphens: auto;
 	word-wrap: break-word;
 	color: #333333;
+	border-bottom: solid 1px #efefef;
 }
 
 .main-article h1,
@@ -61,7 +62,7 @@ body {
 	margin-bottom: 32px;
 }
 
-p.lead {
+div.article-content > p:first-child {
 	font-size: 24px;
 	line-height: 36px;
 	margin-bottom: 36px;
@@ -75,7 +76,7 @@ p.lead {
 	line-height: 24px;
 }
 
-.drop-cap:first-letter {
+div.article-content > p:first-child:first-letter {
 	float: left;
 	margin: auto .25em auto auto;
 	padding: inherit;
