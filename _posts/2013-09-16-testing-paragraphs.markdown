@@ -9,7 +9,7 @@ and then two more here
 after this line two more  
 and then two plus a blank line with two  
   
-This should be a new paragraph  
-but I bet it won't be  
+This *should* be a new paragraph  
+but I bet it _won't_ be  
 because MD is really dumb  
 that's just my opinion  
