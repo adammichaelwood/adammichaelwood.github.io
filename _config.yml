@@ -30,7 +30,7 @@ links:
 timezone:    America/Chicago
 future:      true
 pygments:    true
-#markdown:    
+markdown:    maruku
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
