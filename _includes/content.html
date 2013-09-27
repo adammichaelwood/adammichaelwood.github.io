@@ -15,12 +15,23 @@
 		{% endif %}
 	</div> <!-- article header -->
 	{% if page.layout == 'home' %}
-		{% for post in site.posts %}
-			<h2><a href="{{ site.url }}{{ post.url }}">{{post.title}}</a></h2>
-				{% if post.description %}
-					<p>{{ post.description }}</p>
-				{% endif %}
-		{% endfor %}
+		<div class="post-index">
+			{% for post in site.posts %}
+				<div class="article-link">
+					<div class="article-title">
+						<h2 class="article-headline">
+							<a href="{{ site.url }}{{ post.url }}">{{post.title}}</a>
+							{% if post.subtitle %} 
+								<br/><small>{{ post.subtitle}}</small>
+							{% endif %}
+						</h2>
+					</div> <!-- / .article-title -->
+					{% if post.description %}
+						<p>{{ post.description }}</p>
+					{% endif %}
+				</div> <!-- / .article-link -->
+			{% endfor %}
+		</div>
 	{% else %}
 	<div class="article-content">
 		{{ content }}

@@ -14,7 +14,7 @@ body {
 	padding-bottom: 15px;
 }
 
-.main-article {
+.main-article, .post-index {
 	font-family: georgia, 'Times New Roman', garamond, serif;
 }
 
