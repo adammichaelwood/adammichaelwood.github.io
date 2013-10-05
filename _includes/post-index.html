@@ -12,6 +12,8 @@
 			</div> <!-- / .article-title -->
 			{% if post.description %}
 				<p>{{ post.description }}</p>
+				<p>Keep reading <a href="{{ site.url }}{{ post.url }}">{{post.title}}...</a></p>
+
 			{% else %}
 				<div class="post-index-content">{{ post.content }}</div>
 			{% endif %}
