@@ -1,0 +1,23 @@
+<div class="article-content">
+	{{ content }}
+	{% if page.original_appearance.title %}
+		{% if page.original_appearance.alt_text %}
+			{{ page.original_appearance.alt_text }}
+		{% else %}
+			Originally appeared at
+		{% endif %}
+		{% if page.original_appearance.url %}
+			<a href="{{page.original_appearance.url}}" target="_blank">
+				{{ page.original_appearance.title}}
+			</a>
+		{% else %}
+			{{ page.original_appearance.title}}
+		{% endif %}
+		{% if page.original_appearance.date %}
+			on {{page.original_appearance.date | date_to_long_string}}.
+		{% else %}
+			.
+		{% endif %}
+	{% endif %}
+</div> <!-- /.article-content -->
+{% include disqus.html %}

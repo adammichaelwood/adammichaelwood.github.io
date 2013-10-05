@@ -15,46 +15,8 @@
 		{% endif %}
 	</div> <!-- article header -->
 	{% if page.layout == 'home' %}
-		<div class="post-index">
-			{% for post in site.posts %}
-				<div class="article-link">
-					<div class="article-title">
-						<h2 class="article-headline">
-							<a href="{{ site.url }}{{ post.url }}">{{post.title}}</a>
-							{% if post.subtitle %} 
-								<br/><small>{{ post.subtitle}}</small>
-							{% endif %}
-						</h2>
-					</div> <!-- / .article-title -->
-					{% if post.description %}
-						<p>{{ post.description }}</p>
-					{% endif %}
-				</div> <!-- / .article-link -->
-			{% endfor %}
-		</div>
+		{% include post-index.html %}
 	{% else %}
-	<div class="article-content">
-		{{ content }}
-		{% if page.original_appearance.title %}
-			{% if page.original_appearance.alt_text %}
-				{{ page.original_appearance.alt_text }}
-			{% else %}
-				Originally appeared at
-			{% endif %}
-			{% if page.original_appearance.url %}
-				<a href="{{page.original_appearance.url}}" target="_blank">
-					{{ page.original_appearance.title}}
-				</a>
-			{% else %}
-				{{ page.original_appearance.title}}
-			{% endif %}
-			{% if page.original_appearance.date %}
-				on {{page.original_appearance.date | date_to_long_string}}.
-			{% else %}
-				.
-			{% endif %}
-		{% endif %}
-	</div> <!-- /.article-content -->
-	{% include disqus.html %}
+		{% include article-content.html %}
 	{% endif %}
 </div> <!-- /.main-article -->
