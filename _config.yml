@@ -3,7 +3,7 @@ tagline:          Essays and Poems
 description:      'Liturgy, theology, music, economics, politics, heresy, libertarianism, open source, development.'
 #Comment out url when working locally to resolve base urls correctly
 # url: http://adammichaelwood.github.io
-feed:             http://adammichaelwood.github.io/rss.xml
+feed:             http://adammichaelwood.github.io/feed.xml
 
 # Owner/author information
 owner:
