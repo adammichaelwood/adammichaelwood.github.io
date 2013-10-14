@@ -2,12 +2,15 @@
 	{% for post in site.posts %}
 		<div class="article-link">
 			<div class="post-index-title">
+				<div class="article-dateline">
+					{{ post.date | date_to_long_string }}
+				</div>
 				<h2 class="article-headline">
 					<a href="{{ site.url }}{{ post.url }}">{{post.title}}</a>
 					{% if post.subtitle %} 
 						<br/><small>{{ post.subtitle}}</small>
 					{% endif %}
-					<small><span class="label label-default pull-right">{{ post.layout }}</span></small>
+					<!-- <small><span class="label label-default pull-right">{{ post.layout }}</span></small>-->
 				</h2>
 			</div> <!-- / .article-title -->
 			{% if post.description %}
@@ -16,6 +19,7 @@
 
 			{% else %}
 				<div class="post-index-content">{{ post.content }}</div>
+				<p><a href="{{ site.url }}{{ post.url }}#comment-anchor">Comment on {{post.title}}.</a></p>
 			{% endif %}
 		</div> <!-- / .article-link -->
 	{% endfor %}

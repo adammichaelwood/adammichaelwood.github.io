@@ -13,6 +13,11 @@
 				<span>by {{ page.author }}</span>
 			</div>
 		{% endif %}
+		{% if page.date %}
+			<div class="date-line">
+				<span>{{ page.date | date_to_long_string }}</span>
+			</div>
+		{% endif %}
 	</div> <!-- article header -->
 	{% if page.layout == 'home' %}
 		{% include post-index.html %}
