@@ -4,12 +4,14 @@ title: Adam Michael Wood
 subtitle: Contact
 ---
 
-Email:
-adam DOT michael DOT wood
-(g)oogle(mail)
+Google - mail and chat
+adam.michael.wood
 
-Github:
-/adammichaelwood
+Google+
+[+AdamWoodAMW](http://google.com/+AdamWoodAMW)
 
-Facebook:
-/wood.adam.michael
+Github
+[adammichaelwood](http://github.com/adammichael.wood)
+
+Facebook
+[wood.adam.michael](http://facebook.com/wood.adam.michael)
