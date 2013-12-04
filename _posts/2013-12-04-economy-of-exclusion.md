@@ -2,6 +2,7 @@
 layout: essay
 title: An Economy of Exclusion
 author: Adam Michael Wood
+description: In the titular first line of the Apostolic Exhortation Evangelii Gaudium, the Holy Father writes, "The joy of the Gospel fills the hearts and lives of all who encounter Jesus. Those who accept his offer of salvation are set free from sin, sorrow, inner emptiness and loneliness. With Christ joy is constantly born anew."
 ---
 
 ## The Aspirations of Catholic Social Teaching ##
