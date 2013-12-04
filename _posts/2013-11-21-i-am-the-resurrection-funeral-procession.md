@@ -7,11 +7,11 @@ author: Adam Michael Wood
 
 "I am the Resurrection," he said, "the Life am I." 
 And who in Him have kept faith, not one of them shall die. 
-For all who trust our Savior, who call upon the Lord,
-all they who live for Jesus shall find a sure reward.
-O God, in joy and sorrow, we sing our thanks and praise,
-to You, the source and ending, the glory of our days.
-
+For all who trust our Savior, who call upon the Lord, 
+all they who live for Jesus shall find a sure reward. 
+O God, in joy and sorrow, we sing our thanks and praise, 
+to You, the source and ending, the glory of our days. 
+ 
 I know my saving God lives, the Lord of my new birth,
 I know that at on the last day He'll stand upon the Earth.
 And I shall be awakened and from the grave arise,
