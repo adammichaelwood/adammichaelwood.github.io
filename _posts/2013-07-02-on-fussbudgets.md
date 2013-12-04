@@ -1,17 +1,9 @@
-/**********
-* 
-* ON FUSSBUDGETS
-* 
-* @author: Adam Michael Wood || https://github.com/adammichaelwood || adam.michael.wood@gmail.com
-* @copyright: ©2013 Adam Michael Wood
-* 
-* @license: Creative Commons: Attribution, Share-Alike || CC BY-SA 3.0 || http://creativecommons.org/licenses/by-sa/3.0/
-*
-* @package: Adam's Writing || https://github.com/adammichaelwood/adam.michael.wood_writing
-* @subpackage: Poems
-*
-*
-**********/
+---
+layout: poem
+title: On Fussbudgets
+author: Adam Michael Wood
+description: Does any blight or cursed venom<br/>Have a bite that's worse than them in<br/>whom no happy triffling matter<br/>fails to launch an angry pratter<br/>blusterbunding out the gullet,<br/>of dispar'ging comments, full? It<br/>really is an aweful mir'cle<br/>how the purtin prudy jerk'll<br/>blab displeasure, frown on happy<br/>thoughts and spread his brand of crappi-<br/>ness where e'er his gazing lands,<br/>confident he understands.
+---
 
 Does any blight or cursed venom
 Have a bite that's worse than them in

@@ -1,17 +1,10 @@
-/**********
-* 
-* AGAINST FREE VERSE
-* 
-* @author: Adam Michael Wood || https://github.com/adammichaelwood || adam.michael.wood@gmail.com
-* @copyright: ©2013 Adam Michael Wood
-* 
-* @license: Creative Commons: Attribution, Share-Alike || CC BY-SA 3.0 || http://creativecommons.org/licenses/by-sa/3.0/
-*
-* @package: Adam's Writing || https://github.com/adammichaelwood/adam.michael.wood_writing
-* @subpackage: Poems
-*
-*
-**********/
+---
+layout: poem
+title: Against Free Verse
+author: Adam Michael Wood
+description: Free verse poetry.<br/>I<br/>Find hard to take seriously<br/>the idea
+---
+
 
 Free verse poetry.
 I

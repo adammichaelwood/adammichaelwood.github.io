@@ -1,17 +1,9 @@
-/**********
-* 
-* ON PRAGMATIC THEOLOGIANS
-* 
-* @author: Adam Michael Wood || https://github.com/adammichaelwood || adam.michael.wood@gmail.com
-* @copyright: ©2012 Adam Michael Wood
-* 
-* @license: Creative Commons: Attribution, Share-Alike || CC BY-SA 3.0 || http://creativecommons.org/licenses/by-sa/3.0/
-*
-* @package: Adam's Writing || https://github.com/adammichaelwood/adam.michael.wood_writing
-* @subpackage: Poems
-*
-*
-**********/
+---
+layout: poem
+title: On Pragmatic Theologians
+author: Adam Michael Wood
+description: O practiced hand of theory, ever taking<br/>paths that lead to "useful," even making<br/>knowledge of divine like kit instructions<br/>turning points of dogma into functions
+---
 
 O practiced hand of theory, ever taking
 paths that lead to "useful," even making
@@ -32,5 +24,3 @@ Yet there is hope for all (for God is gracious)
 no matter how wrong-headed or fallacious.
 For I once thought as you- but I was youthful,
 and now know only truth makes something truthful.
-
-//END//

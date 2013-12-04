@@ -1,21 +1,9 @@
-<!---------
-/**********
-* 
-* RESPONSE TO THE MOST COMMON IP ARGUMENT
-* 
-* @author: Adam Michael Wood || https://github.com/adammichaelwood || adam.michael.wood@gmail.com
-* @copyright: ©2013 Adam Michael Wood
-* 
-* @license: Creative Commons: Attribution, Share-Alike || CC BY-SA 3.0 || http://creativecommons.org/licenses/by-sa/3.0/
-*
-* @package: Adam's Writing || https://github.com/adammichaelwood/adam.michael.wood_writing
-* @subpackage: Essays
-*
-* @appearance: FaceBook || 2013-06-19
-*
-*
-**********/
----------->
+---
+layout: essay
+title: Response to the Most Common pro-IP Argument
+author: Adam Michael Wood
+description: There are arguments - some good, some bad - against my position on Intellectual Property.<br/>But the one I find the most ridiculous is this one...
+---
 
 There are arguments - some good, some bad - against my position on Intellectual Property.
 

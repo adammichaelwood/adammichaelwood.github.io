@@ -1,21 +1,13 @@
-<!---------
-/**********
-* 
-* OPEN SOURCE FOR SACRED MUSIC INFRASTRUCTURE
-* 
-* @author: Adam Michael Wood || https://github.com/adammichaelwood || adam.michael.wood@gmail.com
-* @copyright: ©2013 Adam Michael Wood
-* 
-* @license: Creative Commons: Attribution, Share-Alike || CC BY-SA 3.0 || http://creativecommons.org/licenses/by-sa/3.0/
-*
-* @package: Adam's Writing || https://github.com/adammichaelwood/adam.michael.wood_writing
-* @subpackage: Essays
-*
-* @appearance: http://musicforsunday.com/2013/open-source-for-sacred-music-infrastructure || 2013-02-04
-*
-*
-**********/
----------->
+---
+layout: essay
+title: Open Source for Sacred Music Infrastructure
+author: Adam Michael Wood
+description: In exploring the benefits of Open Source Sacred Music, the only reasonable model for comparison is, of course, Open Source software. While the analogy breaks down at some critical points (music is content, while software is a tool), I believe there is still much to be learned from the Open Source software movement, particularly in terms of commercial business practice and community involvement.
+original_appearance: 
+  title: Music for Sunday
+  url: http://musicforsunday.com/2013/open-source-for-sacred-music-infrastructure
+  date: 2013-02-04T00:00:00
+---
 
 <p>In exploring the benefits of Open Source Sacred Music, the only reasonable model for comparison is, of course, Open Source software. While the analogy breaks down at some critical points (music is content, while software is a tool), I believe there is still much to be learned from the Open Source software movement, particularly in terms of commercial business practice and community involvement.</p>
 

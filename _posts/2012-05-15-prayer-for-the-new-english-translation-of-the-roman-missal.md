@@ -1,19 +1,12 @@
-/**********
-* 
-* PRAYER FOR THE NEW TRANSLATION OF THE ROMAN MISSAL
-* 
-* @author: Adam Michael Wood || https://github.com/adammichaelwood || adam.michael.wood@gmail.com
-* @copyright: ©2012 Adam Michael Wood
-* 
-* @license: Creative Commons: Attribution, Share-Alike || CC BY-SA 3.0 || http://creativecommons.org/licenses/by-sa/3.0/
-*
-* @package: Adam's Writing || https://github.com/adammichaelwood/adam.michael.wood_writing
-* @subpackage: Random
-*
-* @appearance: http://www.praytellblog.com/index.php/2012/05/15/o-lord-who-are-the-author-of-ever-living-life/ || 2012-05-15
-*
-*
-**********/
+---
+layout: short
+title: Prayer for the New English Translation of the Roman Missal
+author: Adam Michael Wood
+original_appearance: 
+  title: Pray Tell Blog
+  url: http://www.praytellblog.com/index.php/2012/05/15/o-lord-who-are-the-author-of-ever-living-life/
+  date: 2012-05-15T00:00:00
+---
 
 O Lord, who are the author of ever-living life,
 and the source of all wonder and mystery, 
@@ -32,5 +25,3 @@ may come circuitously to the understanding of that enlightening grace
 by which you make your miraculous salvation known 
 to all who speak, hear, and rightly understand the sacredness of these, 
 your most holy and auspicious words.
-
-// END //

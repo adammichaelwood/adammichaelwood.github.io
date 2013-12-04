@@ -1,17 +1,9 @@
-/**********
-* 
-* ON FORTUNE
-* 
-* @author: Adam Michael Wood || https://github.com/adammichaelwood || adam.michael.wood@gmail.com
-* @copyright: ©2013 Adam Michael Wood
-* 
-* @license: Creative Commons: Attribution, Share-Alike || CC BY-SA 3.0 || http://creativecommons.org/licenses/by-sa/3.0/
-*
-* @package: Adam's Writing || https://github.com/adammichaelwood/adam.michael.wood_writing
-* @subpackage: Poems
-*
-*
-**********/
+---
+layout: poem
+title: On Fortune
+author: Adam Michael Wood
+description: "There but for the grace of God."<br/>What vain oath, or what wicked spell,<br/>Canted when confronted by the odd<br/>could better our presumption tame and tell?
+---
 
 "There but for the grace of God."
 What vain oath, or what wicked spell,

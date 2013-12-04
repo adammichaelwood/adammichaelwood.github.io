@@ -6,6 +6,7 @@ original_appearance:
   title: Otherwise Orthodox
   url: http://otherwiseorthodox.org/2012/08/on-church-history/
   date: 2012-08-17T00:00:00
+description: Whene'er we look, with shaded eyes<br/>at long-since follies, dead men's lies,<br/>How simple yet the judgments be;<br/>what ease put them to dispatch we.
 ---
 Whene’er we look, with shaded eyes  
 at long-since follies, dead men’s lies,  

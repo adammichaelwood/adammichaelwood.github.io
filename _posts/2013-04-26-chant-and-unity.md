@@ -6,7 +6,7 @@ original_appearance:
   title: Chant Cafe
   url: http://www.chantcafe.com/2013/04/chant-and-unity.html
   date: 2013-04-26T00:00:00
-description: "People with political opinions annoy me. There, I said it."
+description: People with political opinions annoy me. There, I said it.
 ---
 
 

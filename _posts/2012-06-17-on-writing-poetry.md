@@ -1,17 +1,9 @@
-/**********
-* 
-* ON WRITING POETRY
-* 
-* @author: Adam Michael Wood || https://github.com/adammichaelwood || adam.michael.wood@gmail.com
-* @copyright: ©2012 Adam Michael Wood
-* 
-* @license: Creative Commons: Attribution, Share-Alike || CC BY-SA 3.0 || http://creativecommons.org/licenses/by-sa/3.0/
-*
-* @package: Adam's Writing || https://github.com/adammichaelwood/adam.michael.wood_writing
-* @subpackage: Poems
-*
-*
-**********/
+---
+layout: poem
+title: On Writing Poetry
+author: Adam Michael Wood
+description: I think that I shall try to write<br/>a poem every day.<br/>But I will not attempt to try<br/>to write one every way.
+---
 
 I think that I shall try to write
 a poem every day.

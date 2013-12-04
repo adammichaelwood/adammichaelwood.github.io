@@ -1,25 +1,17 @@
-<!---------
-/**********
-* 
-* GO AHEAD AND CHANT - IT'S ASCENSION
-* 
-* @author: Adam Michael Wood || https://github.com/adammichaelwood || adam.michael.wood@gmail.com
-* @copyright: ©2013 Adam Michael Wood
-* 
-* @license: Creative Commons: Attribution, Share-Alike || CC BY-SA 3.0 || http://creativecommons.org/licenses/by-sa/3.0/
-*
-* @package: Adam's Writing || https://github.com/adammichaelwood/adam.michael.wood_writing
-* @subpackage: Essays
-*
-* @appearance: http://www.chantcafe.com/2013/05/go-ahead-and-chant-its-ascension.html || 2013-05-08
-*
-*
-**********/
----------->
+---
+layout: essay
+title: Go Ahead and Chant - It's Ascension
+author: Adam Michael Wood
+original_appearance: 
+  title: Chant Cafe
+  url: http://www.chantcafe.com/2013/05/go-ahead-and-chant-its-ascension.html
+  date: 2013-05-08T00:00:00
+description: Due to the cyclical and holistic nature of the Propers, and the aversion to treating Gregorian Chant as "just another option among many," there hasn't been (that I've noticed) much discussion about <em>occasional </em> use of the Propers. This is understandable, but there are times when, even in the context of a non-Propers-oriented program, one or more of the Proper chants are a particularly good fit, and could be introduced as a special choir piece.
+---
 
 <p>There are many ways to begin introducing the chanted Propers into your parish's liturgical life, and it seems CMAA has been building something of a cottage industry devoted to exploring these possibilities.</p>
 
-<p>Due to the cyclical and holistic nature of the Propers, and the aversion to treating Gregorian Chant as "just another option among many," there hasn't been (that I've noticed) much discussion about <em>occasiona </em> use of the Propers. This is understandable, but there are times when, even in the context of a non-Propers-oriented program, one or more of the Proper chants are a particularly good fit, and could be introduced as a special choir piece. While this may run the risk of reinforcing Gregorian Chant as either "for special occasions" or "one more choice among many," I have to think it's better than never singing these pieces at all.</p>
+<p>Due to the cyclical and holistic nature of the Propers, and the aversion to treating Gregorian Chant as "just another option among many," there hasn't been (that I've noticed) much discussion about <em>occasional </em> use of the Propers. This is understandable, but there are times when, even in the context of a non-Propers-oriented program, one or more of the Proper chants are a particularly good fit, and could be introduced as a special choir piece. While this may run the risk of reinforcing Gregorian Chant as either "for special occasions" or "one more choice among many," I have to think it's better than never singing these pieces at all.</p>
 
 <p>The Feast of the Ascension seems to me to be one of those times where the text <em>and the style</em> of the chants from the Gradual Romanum seem to be a perfect fit, even in a conventional "contemporary" parish liturgical setting where the texts of the lessons provide the "theme" for musical selections.</p>
 

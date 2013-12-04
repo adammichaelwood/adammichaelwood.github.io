@@ -1,17 +1,9 @@
-/**********
-* 
-* ON RAISING CHILDREN
-* 
-* @author: Adam Michael Wood || https://github.com/adammichaelwood || adam.michael.wood@gmail.com
-* @copyright: ©2012 Adam Michael Wood
-* 
-* @license: Creative Commons: Attribution, Share-Alike || CC BY-SA 3.0 || http://creativecommons.org/licenses/by-sa/3.0/
-*
-* @package: Adam's Writing || https://github.com/adammichaelwood/adam.michael.wood_writing
-* @subpackage: Poems
-*
-*
-**********/
+---
+layout: poem
+title: On Raising Children
+author: Adam Michael Wood
+description: Reared and raised on Seuss, was I,<br/>what form! what grace! oh me, oh my.
+---
 
 Reared and raised on Seuss, was I,
 what form! what grace! oh me, oh my.

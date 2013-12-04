@@ -1,21 +1,13 @@
-<!---------
-/**********
-* 
-* OPEN SOURCE SACRED MUSIC
-* 
-* @author: Adam Michael Wood || https://github.com/adammichaelwood || adam.michael.wood@gmail.com
-* @copyright: ©2013 Adam Michael Wood
-* 
-* @license: Creative Commons: Attribution, Share-Alike || CC BY-SA 3.0 || http://creativecommons.org/licenses/by-sa/3.0/
-*
-* @package: Adam's Writing || https://github.com/adammichaelwood/adam.michael.wood_writing
-* @subpackage: Essays
-*
-* @appearance: http://musicforsunday.com/2013/open-source-sacred-music || 2013-01-17
-*
-*
-**********/
----------->
+---
+layout: essay
+title: Open Source Sacred Music
+author: Adam Michael Wood
+description: <p>It has been a (relatively) long time since the software world managed to come to something like a consensus on the nature of free and open source software. To someone who is more-or-less fluent in the language of copyleft and open licensing, the accounts of the early days of figuring out how to distinguish between <a href="http://en.wikipedia.org/wiki/Gratis_versus_libre" target="_blank">"free as in beer" (no cost) and "free as in speech" (no restrictions)</a> seem a bit quaint. In software, this stuff now seems inevitable.</p>
+original_appearance: 
+  title: Music for Sunday
+  url: http://musicforsunday.com/2013/open-source-sacred-music
+  date: 2013-01-17T00:00:00
+---
 
 <p>It has been a (relatively) long time since the software world managed to come to something like a consensus on the nature of free and open source software. To someone who is more-or-less fluent in the language of copyleft and open licensing, the accounts of the early days of figuring out how to distinguish between <a href="http://en.wikipedia.org/wiki/Gratis_versus_libre" target="_blank">"free as in beer" (no cost) and "free as in speech" (no restrictions)</a> seem a bit quaint. In software, this stuff now seems inevitable.</p>
 

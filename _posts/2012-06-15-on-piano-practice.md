@@ -1,17 +1,9 @@
-/**********
-* 
-* ON PIANO PRACTICE
-* 
-* @author: Adam Michael Wood || https://github.com/adammichaelwood || adam.michael.wood@gmail.com
-* @copyright: ©2012 Adam Michael Wood
-* 
-* @license: Creative Commons: Attribution, Share-Alike || CC BY-SA 3.0 || http://creativecommons.org/licenses/by-sa/3.0/
-*
-* @package: Adam's Writing || https://github.com/adammichaelwood/adam.michael.wood_writing
-* @subpackage: Poems
-*
-*
-**********/
+---
+layout: poem
+title: On Piano Practice
+author: Adam Michael Wood
+description: I sit at my so-called "piano" and try<br/>to make my ten fingers act lively and spry<br/><br/>They pound and they gallop, run off on their own<br/>they play the wrong rhythm, they play the wrong tone.
+---
 
 I sit at my so-called "piano" and try
 to make my ten fingers act lively and spry

@@ -4,6 +4,10 @@ title: A Firm Foundation
 subtitle: On finding roots in rootlessness
 author: Adam Michael Wood
 description: I recently had the joy of reconnecting with a group of very close friends- a small, non-denominational house church community that my wife and I were a part of when we lived in Massachusetts. I've written about them before, in relation to how singing with this group influenced my thinking in regards to Gregorian Chant. The founding members of this community had grown up in the Church of Christ tradition, where unaccompanied congregational singing is the norm- one of the primary identifying aspects of their worship culture. Singing and praying with them, in their "native style," provided food for thought about issues like simplicity is music, the need for accompaniment, the nature of musical notation, and the degree to which traditions of musical practice shape and identify a religious tradition.
+original_appearance: 
+  title: Chant Cafe
+  url: http://www.chantcafe.com/2013/05/a-firm-foundation.html
+  date: 2013-05-08T00:00:00
 ---
 I recently had the joy of reconnecting with a group of very close friends- a small, non-denominational house church community that my wife and I were a part of when we lived in Massachusetts. I've written about them before, in relation to how singing with this group influenced my thinking in regards to Gregorian Chant. The founding members of this community had grown up in the Church of Christ tradition, where unaccompanied congregational singing is the norm- one of the primary identifying aspects of their worship culture. Singing and praying with them, in their "native style," provided food for thought about issues like simplicity is music, the need for accompaniment, the nature of musical notation, and the degree to which traditions of musical practice shape and identify a religious tradition.
 

@@ -1,17 +1,9 @@
-/**********
-* 
-* ON FREE VERSE
-* 
-* @author: Adam Michael Wood || https://github.com/adammichaelwood || adam.michael.wood@gmail.com
-* @copyright: ©2012 Adam Michael Wood
-* 
-* @license: Creative Commons: Attribution, Share-Alike || CC BY-SA 3.0 || http://creativecommons.org/licenses/by-sa/3.0/
-*
-* @package: Adam's Writing || https://github.com/adammichaelwood/adam.michael.wood_writing
-* @subpackage: Poems
-*
-*
-**********/
+---
+layout: poem
+title: On Free Verse
+author: Adam Michael Wood
+description: Not for me, the free-verse verses,<br/>curses. worse! those terse reverses.
+---
 
 Not for me, the free-verse verses,
 curses. worse! those terse reverses.
