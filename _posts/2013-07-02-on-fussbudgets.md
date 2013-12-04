@@ -42,7 +42,7 @@ that they see through poop-hued glasses.
 Not to mention half the time
 or more they haven't caught the rhyme
 or reason for the rules they follow,
-[[insert vulgar pun on "swallow"]].
+(insert vulgar pun on "swallow").
 
 Scared to have a joyful living,
 hiding from decisions, giving

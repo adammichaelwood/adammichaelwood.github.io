@@ -49,7 +49,7 @@ A catalog of these notions, and even a short note about their effects, would tak
 
 ## Minimum Wage and "Just Wage" Theory ##
 
-Chief among the offending suggestions constantly set forth by those in Magisterial Office is the notion that civil society can determine and mandate a minimum wage, below which employment is unjust and exploitative. Francis sums up the Church’s thinking on this matter by stating that “[a] just wage enables [the poor] to have adequate access to all the other goods which are destined for our common use.”
+Chief among the offending suggestions constantly set forth by those in Magisterial Office is the notion that civil society can determine and mandate a minimum wage, below which employment is unjust and exploitative. Francis sums up the Church’s thinking on this matter by stating that “\[a\] just wage enables \[the poor\] to have adequate access to all the other goods which are destined for our common use.”
 
 There is almost no idea in the realm of “justice-oriented economic reform” which is more universally held or which is more onerous in its deleterious effect on the poor and working class.
 
