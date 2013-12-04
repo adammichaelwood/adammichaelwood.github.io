@@ -1,0 +1,21 @@
+/**********
+* 
+* ON THE ORGAN
+* 
+* @author: Adam Michael Wood || https://github.com/adammichaelwood || adam.michael.wood@gmail.com
+* @copyright: ©2012 Adam Michael Wood
+* 
+* @license: Creative Commons: Attribution, Share-Alike || CC BY-SA 3.0 || http://creativecommons.org/licenses/by-sa/3.0/
+*
+* @package: Adam's Writing || https://github.com/adammichaelwood/adam.michael.wood_writing
+* @subpackage: Poems
+*
+*
+**********/
+
+I'm not very good at the keyboard, I know
+I play things too loud, I play things too slow.
+But there's one thing of all where I'm quite incomplete:
+I have no skills for playing old hymns with my feet.
+
+//END//

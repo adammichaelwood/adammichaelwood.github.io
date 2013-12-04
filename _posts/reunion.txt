@@ -1,0 +1,28 @@
+/**********
+* 
+* REUNION
+* 
+* @author: Adam Michael Wood || https://github.com/adammichaelwood || adam.michael.wood@gmail.com
+* @copyright: ©2013 Adam Michael Wood
+* 
+* @license: Creative Commons: Attribution, Share-Alike || CC BY-SA 3.0 || http://creativecommons.org/licenses/by-sa/3.0/
+*
+* @package: Adam's Writing || https://github.com/adammichaelwood/adam.michael.wood_writing
+* @subpackage: Poems
+*
+*
+**********/
+
+Twixt sorrow and the joy of being near,
+We sing for comfort, and for God to hear.
+Though fleeting comfort is, and absence long,
+there is no cold despairing in our song.
+For that same God who joined us also parts,
+and strengthens for the breaking of our hearts.
+
+Composer of the Heavens, make us new
+That we might in all places sing for You,
+And if it pleases, let it not be long
+Til scattered friends again rejoice in song.
+
+//END//

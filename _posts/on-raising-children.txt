@@ -1,0 +1,34 @@
+/**********
+* 
+* ON RAISING CHILDREN
+* 
+* @author: Adam Michael Wood || https://github.com/adammichaelwood || adam.michael.wood@gmail.com
+* @copyright: ©2012 Adam Michael Wood
+* 
+* @license: Creative Commons: Attribution, Share-Alike || CC BY-SA 3.0 || http://creativecommons.org/licenses/by-sa/3.0/
+*
+* @package: Adam's Writing || https://github.com/adammichaelwood/adam.michael.wood_writing
+* @subpackage: Poems
+*
+*
+**********/
+
+Reared and raised on Seuss, was I,
+what form! what grace! oh me, oh my.
+
+And Shakespeare, too, and old King Jim
+(the Good Book that was named for him)
+
+Such art we had when we were young-
+what books we read! what songs were sung!
+
+Do children now, in growing years,
+rhyme their laughter, sing their tears?
+
+They must, and you must make it so,
+with bookshelves full, and Sundays slow.
+
+Forget not all you dreamed and read,
+when laying children down to bed.
+
+//END//

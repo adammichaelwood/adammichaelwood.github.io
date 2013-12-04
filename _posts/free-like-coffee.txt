@@ -1,0 +1,21 @@
+/**********
+* 
+* FREE LIKE COFFEE
+* 
+* @author: Adam Michael Wood || https://github.com/adammichaelwood || adam.michael.wood@gmail.com
+* @copyright: ©2013 Adam Michael Wood
+* 
+* @license: Creative Commons: Attribution, Share-Alike || CC BY-SA 3.0 || http://creativecommons.org/licenses/by-sa/3.0/
+*
+* @package: Adam's Writing || https://github.com/adammichaelwood/adam.michael.wood_writing
+* @subpackage: Random
+*
+*
+**********/
+
+Open Source Definitions Extension:
+
+Free like "free beer" - At no cost.
+Free like "free speech" - Unrestricted.
+
+Free like "free coffee" - This product was prepared at some unknown time in the past, for reasons which now seem inscrutable. It was pretty crappy to begin with, and has only gotten crappier through neglect. None of the needed accessories are available. However desperate you are for the benefits of the standard version of the product, you should not use this version under any circumstances. It would have been removed and thrown away if anybody responsible for its creation were still paying the slightest amount of attention to it. And anyway, who drinks coffee at this time of day?

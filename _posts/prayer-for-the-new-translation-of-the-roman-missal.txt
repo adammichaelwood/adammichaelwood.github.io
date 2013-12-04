@@ -1,0 +1,36 @@
+/**********
+* 
+* PRAYER FOR THE NEW TRANSLATION OF THE ROMAN MISSAL
+* 
+* @author: Adam Michael Wood || https://github.com/adammichaelwood || adam.michael.wood@gmail.com
+* @copyright: ©2012 Adam Michael Wood
+* 
+* @license: Creative Commons: Attribution, Share-Alike || CC BY-SA 3.0 || http://creativecommons.org/licenses/by-sa/3.0/
+*
+* @package: Adam's Writing || https://github.com/adammichaelwood/adam.michael.wood_writing
+* @subpackage: Random
+*
+* @appearance: http://www.praytellblog.com/index.php/2012/05/15/o-lord-who-are-the-author-of-ever-living-life/ || 2012-05-15
+*
+*
+**********/
+
+O Lord, who are the author of ever-living life,
+and the source of all wonder and mystery, 
+bless, recognize, and approve these words, 
+these clauses, these holy and undefiled enunciations, 
+we humbly pray, 
+both dependent and independent, 
+which we offer you first of all on behalf of your Church, 
+that by the anticipation of their conclusions, 
+long forestalled by the mysterious work of your servants who, 
+holding to the truth, handed them to us, 
+and by the sincere searching for their venerable antecedents, 
+we, though pitiable in our ignorance 
+and darkened by the stain of sin, 
+may come circuitously to the understanding of that enlightening grace 
+by which you make your miraculous salvation known 
+to all who speak, hear, and rightly understand the sacredness of these, 
+your most holy and auspicious words.
+
+// END //
