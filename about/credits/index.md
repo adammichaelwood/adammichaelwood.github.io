@@ -1,31 +1,34 @@
 ---
 layout: essay
-title: Credits
+title: About this site
 ---
 
 This site is the work of Adam Michael Wood.
 &nbsp;
 &nbsp;
 
-## Hosting ##
+## Credits ##
+
+### Hosting ###
 This site is hosted on [Github](http://github.com).
 
-## Content Management ##
+### Content Management ###
 This site runs on [Jekyll](http://jekyllrb.com), a static site generator built in Ruby.
 
-## Front End Framework ##
+### Front End Framework ###
 The basis for the design is [Twitter Bootstrap 3.0](http://getbootstrap.com).
 
+### Typography ###
 While I ended up not using any of their code (that I recall) I stole a lot of typography ideas from [Typeplate](http://typeplate.com).
 
-## Iconography ##
+### Iconography ###
 Small icons are from [Font Awesome](http://fontawesome.io).
 Large icons are from [The Noun Project](http://thenounproject.com).
 
-## Photography ##
+### Photography ###
 The photo of me in the sidebar was taken by [Taylor Williams](http://www.taylorwilliamsphotography.com).
 
-## Comments ##
+### Comments ###
 Comment functionality is provided by [Disqus](http://disqus.com).
 
 ## License ##
