@@ -2,7 +2,7 @@
 layout: poem
 title: On Fortune
 author: Adam Michael Wood
-description: "There but for the grace of God."<br/>What vain oath, or what wicked spell,<br/>Canted when confronted by the odd<br/>could better our presumption tame and tell?
+description: 'There but for the grace of God.'<br/>What vain oath, or what wicked spell,<br/>Canted when confronted by the odd<br/>could better our presumption tame and tell?
 ---
 
 "There but for the grace of God."

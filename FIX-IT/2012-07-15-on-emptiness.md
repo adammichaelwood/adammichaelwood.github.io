@@ -1,8 +1,8 @@
 ---
 layout: poem
-title: On Emptiness
+title: Emptiness
 author: Adam Michael Wood
-description: "Nay, chiefly are we born to die,<br/>it matters not" he says, and I,<br/>though tempted, and like sailors drawn,<br/>to siren calls that bid them on,<br/><br/>I stay. Transfix'd by word,<br/>so often read, so often heard,<br/>my soul (must then it empty be?)<br/>redoubles and re-sounds the sounds of Thee.
+description: 'Nay, chiefly are we born to die,<br/>it matters not' he says, and I,<br/>though tempted, and like sailors drawn,<br/>to siren calls that bid them on,<br/><br/>I stay. Transfix'd by word,<br/>so often read, so often heard,<br/>my soul (must then it empty be?)<br/>redoubles and re-sounds the sounds of Thee.
 ---
 
 "Nay, chiefly are we born to die,

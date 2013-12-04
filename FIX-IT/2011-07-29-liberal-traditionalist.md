@@ -6,7 +6,7 @@ original_appearance:
   title: Pray Tell Blog
   url: http://www.praytellblog.com/index.php/2011/07/29/a-liberal-discovers-chant-and-liturgy/
   date: 2011-07-29T00:00:00
-description: <p>The question I was asked to answer was: “How is it that a liberal such as you has become interested in chant and traditional liturgy?”</p><p>Implicit in that question is something like: How do you reconcile traditionalism with progressive theology?</p>
+description: <p>The question I was asked to answer was 'How is it that a liberal such as you has become interested in chant and traditional liturgy?'</p><p>Implicit in that question is something like- How do you reconcile traditionalism with progressive theology?</p>
 ---
 
 <p>The question I was asked to answer was: “How is it that a liberal such as you has become interested in chant and traditional liturgy?”</p>
