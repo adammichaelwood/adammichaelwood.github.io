@@ -12,12 +12,12 @@ all they who live for Jesus shall find a sure reward
 O God, in joy and sorrow, we sing our thanks and praise 
 To You, the Source and Ending, the glory of our days
 
-I know my saving God lives, the Lord of my new birth, 
-I know that at on the last day He'll stand upon the Earth. 
-And I shall be awakened and from the grave arise, 
-and I shall see my savior, my friend, with my own eyes. 
-O God, in joy and sorrow, we sing our thanks and praise, 
-to You, the source and ending, the glory of our days. 
+I know my saving God lives, the Lord of my new birth,  
+I know that at on the last day He'll stand upon the Earth.  
+And I shall be awakened and from the grave arise,  
+and I shall see my savior, my friend, with my own eyes.  
+O God, in joy and sorrow, we sing our thanks and praise,  
+to You, the source and ending, the glory of our days.  
   
 For none of us are living who have our life alone, 
 and from our birth to dying our lives are not our own. 
