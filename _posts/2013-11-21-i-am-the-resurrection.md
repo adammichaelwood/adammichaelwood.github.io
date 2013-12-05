@@ -26,5 +26,5 @@ and if we die in Jesus, we find our sure reward.
 O God, in joy and sorrow, we sing our thanks and praise, 
 to you, the source and ending, the glory of our days. 
   
-Meter: 13 13 13 (or 76 76 76) 
+Meter: 13 13 13 (*or 76 76 76) 
 Suggested Tune: THAXTED 
