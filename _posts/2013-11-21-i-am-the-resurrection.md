@@ -6,7 +6,7 @@ author: Adam Michael Wood
 description: '"I am the Resurrection," he said, "the Life am I."<br/>And who in Him have kept faith, not one of them shall die.'
 ---
 
-"I am the Resurrection," he said, "the Life am I."  
+"I AM the Resurrection," he said, "the Life am I."  
 And who in Him have kept faith, not one of them shall die.  
 For all who trust our Savior, who call upon the Lord,  
 all they who live for Jesus shall find a sure reward  
