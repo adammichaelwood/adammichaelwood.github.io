@@ -1,17 +1,17 @@
 ---
 layout: poem
-title: I Am the Resurrection
-subtitle: Funeral Processional
+title: I Am The Resurrection
+subtitle: Funeral Procession
 author: Adam Michael Wood
 ---
 
-"I am the Resurrection," he said, "the Life am I." 
-And who in Him have kept faith, not one of them shall die. 
-For all who trust our Savior, who call upon the Lord, 
-all they who live for Jesus shall find a sure reward. 
-O God, in joy and sorrow, we sing our thanks and praise, 
-to You, the source and ending, the glory of our days. 
- 
+"I am the Resurrection," he said, "the Life am I."
+And who in Him have kept faith, not one of them shall die.
+For all who trust our Savior, who call upon the Lord,
+all they who live for Jesus shall find a sure reward
+O God, in joy and sorrow, we sing our thanks and praise
+To You, the Source and Ending, the glory of our days.
+
 I know my saving God lives, the Lord of my new birth,
 I know that at on the last day He'll stand upon the Earth.
 And I shall be awakened and from the grave arise,
@@ -28,5 +28,3 @@ to you, the source and ending, the glory of our days.
 
 Meter: 13 13 13 (or 76 76 76)
 Suggested Tune: THAXTED
-
-<img src="http://3.bp.blogspot.com/-IZP3WoaxrXM/Uo472amb0oI/AAAAAAAACFA/SsXCJeKHH3Q/s320/i-am-the-resurrection.png" />
