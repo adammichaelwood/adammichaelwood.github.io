@@ -3,7 +3,7 @@ layout: poem
 title: I Am The Resurrection
 subtitle: Funeral Procession
 author: Adam Michael Wood
-description: "I am the Resurrection," he said, "the Life am I."<br/>And who in Him have kept faith, not one of them shall die.
+description: \"I am the Resurrection,\" he said, \"the Life am I.\"<br/>And who in Him have kept faith, not one of them shall die.
 ---
 
 "I am the Resurrection," he said, "the Life am I."  
@@ -29,5 +29,5 @@ to you, the source and ending, the glory of our days.
   
 Meter: 13 13 13 (or 76 76 76)  
 Suggested Tune: THAXTED
-
+  
 ![HYMN: I Am the Resurrection](http://3.bp.blogspot.com/-IZP3WoaxrXM/Uo472amb0oI/AAAAAAAACFA/SsXCJeKHH3Q/s320/i-am-the-resurrection.png)
