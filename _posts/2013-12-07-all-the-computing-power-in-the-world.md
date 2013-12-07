@@ -13,7 +13,7 @@ The Washington Post [reports on the use of malware for remote surveillance](http
 
 The article describes the FBI's "elite team of hackers," which is absurd and glosses over the scary technical reality. It makes it sound like someone at a computer is actively breaking into another computer in real time.    
     
-The truth is, a (not that elite) group of developers can create this spying malware and it can be deployed en masse, to millions (or billions) of computers continuously, and the results stored, indexed, and analyzed.   
+The truth is, a (not that elite) group of developers can create this spying malware and it can be deployed en masse, to millions (or billions) of computers continuously, and the results stored, indexed, and analyzed.    
   
 The fact that it is occasionally used in a specific ad hoc fashion that sounds (to some, at least) reasonable hides the underlying problem, which is that this sort of thing could be (and probably is) going on already on a massive scale.  
   
