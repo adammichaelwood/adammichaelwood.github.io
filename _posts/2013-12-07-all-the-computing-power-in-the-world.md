@@ -3,6 +3,7 @@ layout: essay
 title: What else would you do with all the computing power in the world?
 subtitle: Power squared corrupts exponentially
 author: Adam Michael Wood
+description: The Russian Mafia (with deep ties to the Russian government) has been doing this sort of thing for over a decade...
 ---
 
 The Washington Post [reports on the use of malware for remote surveillance](http://www.washingtonpost.com/business/technology/2013/12/06/352ba174-5397-11e3-9e2c-e1d01116fd98_story.html), including the ability to turn on a computer's camera.

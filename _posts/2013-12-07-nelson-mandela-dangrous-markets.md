@@ -3,6 +3,7 @@ layout: essay
 title: What Nelson Mandela Reveals About Free Markets
 subtitle: And why they are so dangerous
 author: Adam Michael Wood
+description: The danger of a free market - and it is, truly, a dangerous thing - is that people will sometimes...
 ---
 
 The popular narrative of Nelson Mandela's life focuses on him as a political actor, as someone who brought change and reform into a political system and helped in its renewal.  
