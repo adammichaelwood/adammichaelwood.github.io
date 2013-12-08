@@ -3,11 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Adam Michael Wood">
+    <meta name="description" content="{% if post.description %}{{ post.description }}{% else %}Essays and other writing by Adam Michael Wood{% endif %}">
     <meta name="author" content="Adam Michael Wood">
     <!-- <link rel="shortcut icon" href="../../assets/ico/favicon.png"> -->
 
-    <title>Adam Michael Wood</title>
+    <title>
+      {{ page.title}}{% if page.subtitle %}: {{ page.subtitle}}{% endif %}
+    </title>
 
     <!-- Bootstrap core CSS -->
     <link href="{{ site.url }}/css/bootstrap.min.css" rel="stylesheet">
