@@ -2,7 +2,7 @@
 layout: essay
 title: Response to the Most Common pro-IP Argument
 author: Adam Michael Wood
-description: There are arguments - some good, some bad - against my position on Intellectual Property.<br/>But the one I find the most ridiculous is this one...
+description: There are arguments - some good, some bad - against my position on Intellectual Property. But the one I find the most ridiculous is this one:<br/><br/><em>Yeah, well- how would you feel if I copied and sold <strong>YOUR</strong> stuff?</em>
 ---
 
 There are arguments - some good, some bad - against my position on Intellectual Property.

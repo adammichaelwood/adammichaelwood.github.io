@@ -19,7 +19,7 @@ I want to be clear about something before I go on here: I would not change anyth
 
 But here's the problem with that experience: it was transient, fleeting. Of course, all mortal things are. But, in reference to music, there is a specific problem created here. The musical experience of worshiping with that group does not exist anywhere else in the world. Any attempt to recreate it on purpose would be futile, resulting in a pale copy at best. All of us who were a part of that group will forever have an unfillable longing for what we experienced there.
 
-We were all reminded of this when we were able to reconnect this past weekend. We talked, we prayed, and we sang. And then some of us got in airplanes and flew back to places like Texas and Arkansas, <a href="https://github.com/adammichaelwood/adam.michael.wood_writing/blob/master/poems/reunion.txt">knowing it would be a long time (if ever) before we were all in the same room again.</a>
+We were all reminded of this when we were able to reconnect this past weekend. We talked, we prayed, and we sang. And then some of us got in airplanes and flew back to places like Texas and Arkansas, [knowing it would be a long time (if ever) before we were all in the same room again]({{site.url}}/reunion).
 
 And all of that is okay. We all need, at various times in our lives, to develop prayer-practices that speak to our needs, and to build communities that strengthen us for the Christian journey. We need to step outside our own traditions and see how other people have understood the Gospel. And we also need to know that our individual lives are fleeting, and that God calls us to mission, not to comfort.
 

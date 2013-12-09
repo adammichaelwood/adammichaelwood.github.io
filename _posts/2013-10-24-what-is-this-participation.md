@@ -6,6 +6,7 @@ original_appearance:
   title: Chant Cafe
   url: http://www.chantcafe.com/2013/10/what-is-this-participation.html
   date: 2013-10-24T00:00:00
+description: Dr. Jerry Galipeau's recent excursion to a Mass in the Extraordinary Form has sparked some interesting discussion and reactions. Perhaps the most interesting is his attempt to reconcile the experience of a silent Low Mass with the notion of <em>active (actual) participation</em> called for by the Second Vatican Council.
 ---
 <p>Dr. Jerry Galipeau's recent <a href="http://gottasinggottapray.blogspot.com/2013/10/mass-in-extraordinary-form.html">excursion to a Mass in the Extraordinary Form</a> has sparked some <a href="http://forum.musicasacra.com/forum/discussion/9804/dr.-jerry-goes-to-an-ef#Item_41">interesting discussion and reactions</a>. Perhaps the most interesting is his <a href="http://gottasinggottapray.blogspot.com/2013/10/mass-in-extraordinary-form-and.html">attempt to reconcile the experience of an "unreformed" Low Mass with the notion of "active (actual) participation" called for by the Second Vatican Council</a>. There are interesting and worthwhile ideas to explore here, and I hope no one simply dismisses this out of hand with some version of "Vatican II doesn't apply here!"</p>
 <p>One related point I have been pondering a lot recently is- just what do we mean by <i>participation</i>?</p>
