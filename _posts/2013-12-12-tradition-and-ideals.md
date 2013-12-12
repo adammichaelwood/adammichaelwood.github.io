@@ -1,3 +1,9 @@
+---
+layout: essay
+title: Tradition and Ideals
+author: Adam Michael Wood
+---
+
 I used to talk, and write, more about the possibility and need for variety, even creativity, within the music of the liturgy. I have argued for things like enculturation, and adapting the style of the music to fit the spiritual needs of the community and to enhance the evangelistic mission of the Church.
 
 I don't write about those things very much these days. But not because I have rejected those ideas. I have done so because they make no sense apart from the tradition of music within the Church, a tradition that too many of the champions (and foot soldiers) of the contemporary Catholic music establishment are either unaware of or are willfully ignoring.
