@@ -2,6 +2,7 @@
 layout: essay
 title: Tradition and Ideals
 author: Adam Michael Wood
+description: To speak of an ideal form of the Mass suggests that either there is some original source for the Mass music which we need to recover, or that there is some etherworldly quintessential Mass which we must strive (failingly) to emulate, or that the celebration of Liturgy developed to its intended apex at some time in the past and the job of all liturgists since that time should have been the preservation of that climactic style. None of these is acceptable, though that last one seems pretty common among various branches of tradderrie.
 ---
 
 I used to talk, and write, more about the possibility and need for variety, even creativity, within the music of the liturgy. I have argued for things like enculturation, and adapting the style of the music to fit the spiritual needs of the community and to enhance the evangelistic mission of the Church.
@@ -22,7 +23,7 @@ Attempting to parse out the meaning of the GIRM rules, with its four tiers of op
 
 I see two major problems with this whole endeavor: Speaking of an "ideal" form of the Roman Rite is misguided in the first place, and attempting to find that ideal in the legislation is doubly a fool's errand.
 
-To speak of an ideal form of the Mass suggests that either there is some original source for the Mass music which we need recover, or that there is some etherworldly quintessential Mass which we must strive (failingly) to emulate, or that the celebration of Liturgy developed to its intended apex at some time in the past and the job of all liturgists since that time should have been the preservation of that climactic style. None of these is acceptable, though that last one seems pretty common among various branches of tradderrie. 
+To speak of an ideal form of the Mass suggests that either there is some original source for the Mass music which we need to recover, or that there is some etherworldly quintessential Mass which we must strive (failingly) to emulate, or that the celebration of Liturgy developed to its intended apex at some time in the past and the job of all liturgists since that time should have been the preservation of that climactic style. None of these is acceptable, though that last one seems pretty common among various branches of tradderrie. 
 
 The first-source of the Mass, the "ideal" which all celebrations of the Divine Liturgy point to, is the sacrifice of Calvary- a decidedly unmusical event.
 
