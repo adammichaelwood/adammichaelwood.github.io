@@ -154,7 +154,7 @@ div.article-content > p:first-child:first-letter {
 	line-height: 1;
 	text-indent: 0;
 	background: transparent;
-	color: #330000;
+	color: #660000;
 }
 
 .claremont .first-line {
@@ -213,8 +213,6 @@ div.article-content > p:first-child:first-letter {
 
 .claremont .image-frame .image-caption {
 	color: #222222;
-	font-size: 12px;
-	font-style: italic;
+	font-size: 10px;
+	line-height: 12px;
 }
-
-
