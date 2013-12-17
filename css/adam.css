@@ -154,7 +154,7 @@ div.article-content > p:first-child:first-letter {
 	line-height: 1;
 	text-indent: 0;
 	background: transparent;
-	color: inherit;
+	color: #330000;
 }
 
 .claremont h1 {
