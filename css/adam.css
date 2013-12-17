@@ -158,9 +158,10 @@ div.article-content > p:first-child:first-letter {
 }
 
 .claremont .image-frame {
-	width: 100%;
+	width: 50%;
 	background-color: #efefef;
 	padding: 10px;
+	float: right;
 }
 
 .claremont .image-frame img {
