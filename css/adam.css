@@ -156,3 +156,20 @@ div.article-content > p:first-child:first-letter {
 .claremont dd {
 	padding-left: 20px;
 }
+
+.claremont .image-frame {
+	width: 100%;
+	background-color: #efefef;
+	padding: 10px;
+}
+
+.claremont .image-frame img {
+	width: 100%;
+	margin-bottom: 10px;
+}
+
+.claremont .image-frame .image-caption {
+	color: #333333;
+	font-size: 12px;
+	font-style: italic;
+}
