@@ -110,6 +110,34 @@ div.article-content > p:first-child:first-letter {
 
 /** CLAREMONT **/
 
+.claremont,
+.claremont h1,
+.claremont h2,
+.claremont h3,
+.claremont h4,
+.claremont h5,
+.claremont h6,
+.claremont p,
+.claremont ul, .claremont ol, .claremont li,
+.claremont dl, .claremont dt, .claremont dd,
+.claremont blockquote {
+	font-family: georgia, 'Times New Roman', garamond, serif;	
+}
+
+.claremont,
+.claremont p,
+.claremont ul, .claremont ol, .claremont li,
+.claremont dl, .claremont dt, .claremont dd,
+.claremont blockquote {
+	font-size: 20px;
+	line-height: 32px;
+}
+
+.claremont p {
+	text-align: justify;
+}
+
 .claremont h1 {
 	text-align: center;
+	font-size: 48px;
 }
