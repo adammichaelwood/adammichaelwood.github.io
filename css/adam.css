@@ -146,6 +146,14 @@ div.article-content > p:first-child:first-letter {
 	font-size: 42px;
 	line-height: 48px;
 	margin-top: 24px;
+	margin-bottom: 18px;
+	text-align: center;
+}
+
+.claremont h3 {
+	font-size: 36px;
+	line-height: 40px;
+	margin-top: 18px;
 	margin-bottom: 12px;
 }
 
@@ -161,7 +169,15 @@ div.article-content > p:first-child:first-letter {
 	width: 50%;
 	background-color: #efefef;
 	padding: 10px;
+	margin: 12px;
+}
+
+.claremont .image-frame-right {
 	float: right;
+}
+
+.claremont .image-frame-left {
+	float: left;
 }
 
 .claremont .image-frame img {
@@ -170,7 +186,7 @@ div.article-content > p:first-child:first-letter {
 }
 
 .claremont .image-frame .image-caption {
-	color: #333333;
+	color: #222222;
 	font-size: 12px;
 	font-style: italic;
 }
