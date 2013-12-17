@@ -191,7 +191,15 @@ div.article-content > p:first-child:first-letter {
 	margin-bottom: 32px;
 }
 
-.claremont .image-frame {
+.claremont .image-frame-full{
+	width: 100%;
+	background-color: #efefef;
+	padding: 10px;
+	margin: 18px;
+}
+
+.claremont .image-frame-right {
+	float: right;
 	width: 50%;
 	background-color: #efefef;
 	padding: 10px;
@@ -199,12 +207,13 @@ div.article-content > p:first-child:first-letter {
 	margin-top: 0;
 }
 
-.claremont .image-frame-right {
-	float: right;
-}
-
 .claremont .image-frame-left {
 	float: left;
+	width: 50%;
+	background-color: #efefef;
+	padding: 10px;
+	margin: 18px;
+	margin-top: 0;
 }
 
 .claremont .image-frame img {
