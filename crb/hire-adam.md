@@ -1,0 +1,123 @@
+---
+title: Why the Claremont Institute Needs to Hire Adam Michael Wood
+layout: essay
+---
+
+## Current Findership: What is the CRB's reach? ##
+
+The Claremont Review of Books, the "flagship" of the Institute, bills itself as "America's premiere conservative book review." 
+
+Having read a number of recent articles, and an excerpt from the 10th Anniversary 'Best of' compilation, I would say that the CRB is most likely America's *best* conservative book review. 
+
+But "premiere?" That suggests it has a large number of readers and an outsized influence on the culture. Since I do not have access to subscription and readership data, I can only make some inferences based on publicly available data sources.
+
+Since numbers mean little in isolation, I'll provide context by comparing the available data on Claremont to two other sources:
+
+ - **The National Review** - chosen because it is one of the most well-known conservative print publications, and is well respected by many conservative intellectuals who, like the CRB, find themselves at odds with some of the more abberant punditry in the right-wing.
+ - **New Liturgical Movement** - chosen because it has a similar, but smaller, demographic than CRB (Traditionalist Catholics skew heavily conservative and well-educated), and also because - like the CRB, but very unlike the National Review - it has a very small staff and budget. NLM has a number of contributing authors, but has no full time employees at all.
+
+### Social Media: Facebook and Twitter ###
+
+The Claremont Institute and the Claremont Review of Books each have Facebook and Twitter accounts, but the activity level suggests that these platforms exist as perfunctory, "check the box" endeavors, rather than as strategic attempts to grow the influence of Claremont specifically, or conservative principles generally.
+
+The Institute's Facebook page has 1600+ 'Likes.' This low number is not surprising, considering the publishing rate of five or six posts a month. The Review's page has a similarly low engagement rate at 1100+ 'Likes' and a publishing rate averaging less than five posts a month.
+
+By contrast, the National Review has a Facebook audience of over a million people, and posts 35-45 updates a month, which are regularly 'Liked' and 'Shared' by the hundreds. With a staff a budget the size of the National Review, this kind of engagement makes sense. But also consider the New Liturgical Movement, with no staff or budget to speak of, which has a substantial Facebook audience of over 7500. Most updates posted by NLM are seen directly by 300-500 people, with spikes of up to 1200 happening regularly.
+
+Twitter paints a similar picture. The Institute has just over 800 followers, the Review just over 400, and neither account publishes particularly often. The National Review has two accounts, with followers numbering 74,000+ for one and 78,000+ for the other. The New Liturgical Movement has a Twitter audience of over 1300.
+
+These numbers show a wide gap between the potential for engagement and the current reality.
+
+### Claremont.org ###
+
+Perhaps more disconcerting for anyone who wants to see the Claremont Institute influence the culture of political thought is the state of the organization's primary online presence, the website at www.claremont.org.
+
+The Claremont Review of Books is a classically designed print journal, and it is clear from the introduction to [Life, Liberty, and the Pursuit of Happiness: Ten Years of the Claremont Review of Books](http://www.amazon.com/gp/product/1442213337/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1442213337&linkCode=as2&tag=musforsun-20) that the staff is quite proud of the typography, style, and artwork of the magazine. It is a beautiful publication.
+
+Unfortunately, the website does not share any design qualities in common with the print edition. It is sloppy, amateurish, and outdated. Little thought seems to have been put into the design. A look at the HTML source reveals a number of common anti-patterns, and the URL structure reveals an overly complicated content management system written in a language that hasn't been updated in over a decade.
+
+Traffic figures for claremont.org are likewise unflattering. While raw traffic numbers are not available publicly, [Alexa](http://www.alexa.com/siteinfo/claremont.org) shows the Institute's website at a global ranking of 939,132, which represents a drop of over 50,000 places in the last three months. A high bounce rate (83%) and a low time-on-site average (58 seconds) shows that the relatively small number of page visitors are not being engaged once they arrive.
+
+### Other Platforms ###
+
+A search from the Kindle store for Claremont-related reading material turns up only one book, at a fairly steep price for a digital edition. There seems to be no way to subscribe to the Review of Books in a usable electronic format.
+
+There is a new iPad app, advertised within the CRB print-version. Unfortnately, this seems geared to existing subscribers and is, nonetheless, not available on the more widely used Android platform.
+
+The Institute has a YouTube channel, which is hardly worth mentioning since it has not been updated in two years. A parallel effort, The American Mind, seems to have been born in a fit of activity in the middle of 2013 and then abandoned. The associated website is likewise negligible.
+
+Searches on file-sharing and media-pirating sites turn up no results for any Claremont-related searches, suggesting a general lack of interest among younger, internet-savvy users. Various underground and hidden networks, heavily trafficed by libertarians and radical idealists, are similarly devoid of any interaction with the Claremont Institute.
+
+## Why This Matters To Me, And Why It Should Matter To You ##
+
+In my work with established, "old guard" organizations and individuals, I have found some amount of reluctance or ambivalence to the sort of matter presented above. There is often a mix of resentment ("Why is he insulting us?"), complacency ("Our current plan has been working just fine."), and fear ("People will steal our content!"). 
+
+Often, the value of more online interaction is perceived to be low, the ill-effects of poor design underestimated, and the general return on investment poor. This is not, at all, the case.
+
+The Claremont Institue exists "to restore the principles of the American Founding to their rightful, preeminent authority in our national public life." Since the an increasing majority of people, especially younger people, get the bulk of their news and information from online sources, a more robust and engaged online presence should be considered a necessary part of the Institute's work in pursuing that mission.
+
+Moreover, if increasing readership in the Review is an integral part of the Institute's work, the opportunity for engagement available through social media, a modern web presence, and other digital platforms must be exploited. This would be true if the Institute only wanted to expand subscriptions and influence incrementally among an existing demographic. It is even more the case if, like me, you think that the ideas and content of the Claremont Institute should be introduced and available to new audiences - younger people especially, and those not already engaged in conservative political thought.
+
+This last point is especially relevant to me, and why I have gone to such trouble to present myself to the Institute for employment consideration. I believe in largely conservative and libertarian political positions, though I grew up as a "social justice liberal" and do not identify myself with "the Right" in American politics. Until the last few years, the vitriol and scandal-mongering of the loudest voices in the conservative world kept me from exploring my own political philosophy, instilling a knee-jerk aversion to ideas I now champion.
+
+I believe I am hardly alone in this unthinking aversion, and so few have had the fortunate experiences and relationships I have chanced into and which have moved my thinking from well-meaning to well-informed. The Claremont Review of Books, and the other writings of the Institute represent a sane, rational, and thoroughly convincing indictment of progressive political thought which I wish I had been aware of earlier in my formative years.
+
+Additionally, there is a growing movement of young conservatism in the generation following mine. I see it especially in my interactions with traditionalist Catholic youth and my friends within the Evangelical Christian community. There is a rejection of baby-boomer liberalism, and a general anger at the cultural degradation that has occured over the last half-century. These young conservatives need the guidance and scholarship of organizations like the Claremont Institute, lest they be either sucked into the vortex of brainless TV reactionaries or pushed out of political engagement altogether.
+
+## Forward Strategy: What the Claremont Institute Ought To Do ##
+
+The first thing Claremont should do is hire me.
+
+After that, the job I believe I should be doing is to bring the online marketing presence up to the level of quality present in the print publication. The excellent and in-depth scholarship of the Review, and other writings, deserves much better than it is currently getting in this regard.
+
+### Website ###
+
+Clearly, a complete redesign of the site is required. It should mimic the classic typograhic style and "high-brow" feel of the magazine, while being responsive to a variety of screen sizes and browsing modes. Cleaner code, built on a contemporary Content Management System, is non-negotiable in my opinion. On-site strategies for SEO and user-engagement would get more visitors to stay on the site longer.
+
+Once a stable and attractive platform is in place, ongoing publication of new content should be a priority, as well as the cultivation of a commenting community.
+
+### Social Media: Facebook, Twitter, etc ###
+
+The goal of Social Media engagement should be primarily involvement in, and initiation of, conversations about the ideas and principles of the Institute.
+
+Rather than a simple broadcast of publication activity, this conversational engagement directly promotes the mission of the organization *even among those who may never subscribe to the Review.* If being an influential voice in the culture is a goal, this non-subscriber engagement is incredibly important.
+
+### Kindle, Android Apps, and Other Platforms ###
+
+Getting content to readers should be the primary drive of the Review, whether that content is delivered on paper or digitally.
+
+Without canibalizing the subscription readership, a suite of freely available apps should be made available for - at least - unrestricted access to those articles which would be made available as PDF downloads on the main website. This content helps further the mission by engaging more people in the writing of the Institute, and also acts as a "free sample," marketing paid subscriptions to exclusive content.
+
+Additionally, a subscription to the full magazine should be made available through the Kindle store. Even at a slightly reduced rate, the drastically lower expense makes this a more profitable subscriber base.
+
+Finally, I would suggest creating some sort of annual or biannual digest of articles, available as a Kindle download and/or a print-on-demand paperback. Again, the purpose here is both to expand readership and then also market for paid subscriptions.
+
+## Why Adam Michael Wood? ##
+
+I hope that the analysis and planning laid out above, as well as the effort put into them, are convincing enough that I am the right candidate for this position.
+
+I can offer a handful of additional things to consider on this point:
+
+### I am your new audience ###
+
+I am youngish (early thirties), web-savvy, and passionate about ideas. My progressive/liberal upbringing is in constant need of re-education, and my growing conservatism is in need of tempering. I am, like a lot of people my age, looking for voices of reason and high ideals.
+
+### I have the hard skills you need ###
+
+As you can plainly see, I can write, edit, and proofread. I have experience designing for web and print, and can deploy responsive websites which look great on any size screen. I understand SEO and Google Analytics. I've worked on email marketing campaigns and built membership-management databases. I know how to get a dozen social media services to publish simultaneously at the click of a button.
+
+### I have the soft skills you need ###
+
+For over three years I've managed a team of outsourced software developers. In the same time I have engaged the traditionalist Catholic community through blogging and social media and have become a well-known writer on liturgical matters, read by influential figures in both the Progressive and Traditionalist camps. I know how to persuade, cajole, and promote.
+
+### I'm affordable ###
+
+My current circumstances require that I work remotely (though I am available for travel as needed). This means that I incur no expenses in the way of office space or technology. (I can use my own computer.) 
+
+My entire approach, as described above, relies almost exclusively on no-cost or low-cost technology, much of it being Open Source and Free. 
+
+Finally, not living in the Los Angelis area allows me to do work I believe in for a salary less than might be required in such a high-expense area.
+
+## Are you ready to hire me yet? ##
+
+To learn more about what I can do as a full time member of your team, email me: adam.michael.wood@gmail.com
