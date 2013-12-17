@@ -1,7 +1,9 @@
 ---
-title: Why the Claremont Institute Needs to Hire Adam Michael Wood
+title: Why the Claremont Institute Needs <br> to Hire Adam Michael Wood
 layout: claremont
 ---
+<div class="row">
+	<div class="col-md-8 col-md-offset-2">
 
 ## Current Findership: What is the CRB's reach? ##
 
@@ -15,6 +17,9 @@ Since numbers mean little in isolation, I'll provide context by comparing the av
 
  - **The National Review** - chosen because it is one of the most well-known conservative print publications, and is well respected by many conservative intellectuals who, like the CRB, find themselves at odds with some of the more abberant punditry in the right-wing.
  - **New Liturgical Movement** - chosen because it has a similar, but smaller, demographic than CRB (Traditionalist Catholics skew heavily conservative and well-educated), and also because - like the CRB, but very unlike the National Review - it has a very small staff and budget. NLM has a number of contributing authors, but has no full time employees at all.
+
+ 	</div>
+ </div>
 
 ### Social Media: Facebook and Twitter ###
 
