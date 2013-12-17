@@ -1,6 +1,6 @@
 ---
 title: Why the Claremont Institute Needs to Hire Adam Michael Wood
-layout: essay
+layout: claremont
 ---
 
 ## Current Findership: What is the CRB's reach? ##
