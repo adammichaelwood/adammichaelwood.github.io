@@ -157,6 +157,10 @@ div.article-content > p:first-child:first-letter {
 	color: #330000;
 }
 
+.claremont .first-line {
+	font-variant: small-caps;
+}
+
 .claremont h1 {
 	text-align: center;
 	font-size: 48px;
