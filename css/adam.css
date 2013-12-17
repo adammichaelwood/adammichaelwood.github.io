@@ -138,19 +138,14 @@ div.article-content > p:first-child:first-letter {
 	margin-bottom: 32px;
 }
 
-div.claremont > p:first-child:first-letter {
-	float: left;
-	margin: auto .25em auto auto;
-	padding: inherit;
-	font-size: 4em;
-	font-family: inherit;
-	line-height: 1;
-	text-indent: 0;
-	background: transparent;
-	color: inherit;
+.claremont p.first {
+	font-size: 24px;
+	line-height: 36px;
+	margin-bottom: 36px;
+	color: #222222;
 }
 
-div.claremont > p:first-child:first-letter {
+.claremont p.first:first-letter {
 	float: left;
 	margin: auto .25em auto auto;
 	padding: inherit;
