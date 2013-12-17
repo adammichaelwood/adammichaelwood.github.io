@@ -106,3 +106,10 @@ div.article-content > p:first-child:first-letter {
 #comments {
 	margin-bottom: 40px;
 }
+
+
+/** CLAREMONT **/
+
+.claremont h1 {
+	text-align: center;
+}
