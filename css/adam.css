@@ -196,6 +196,7 @@ div.article-content > p:first-child:first-letter {
 	background-color: #efefef;
 	padding: 10px;
 	margin: 18px;
+	margin-top: 0;
 }
 
 .claremont .image-frame-right {
