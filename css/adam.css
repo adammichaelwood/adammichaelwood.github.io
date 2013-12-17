@@ -195,7 +195,7 @@ div.article-content > p:first-child:first-letter {
 	width: 50%;
 	background-color: #efefef;
 	padding: 10px;
-	margin: 12px;
+	margin: 18px;
 }
 
 .claremont .image-frame-right {
@@ -213,6 +213,6 @@ div.article-content > p:first-child:first-letter {
 
 .claremont .image-frame .image-caption {
 	color: #222222;
-	font-size: 10px;
-	line-height: 12px;
+	font-size: 12px;
+	line-height: 10px;
 }
