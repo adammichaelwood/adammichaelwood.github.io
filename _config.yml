@@ -4,6 +4,7 @@ description:      'Liturgy, theology, music, economics, politics, heresy, libert
 #Comment out url when working locally to resolve base urls correctly
 url: http://adammichaelwood.github.io
 feed:             http://adammichaelwood.github.io/feed.xml
+encoding: utf-8
 
 # Owner/author information
 owner:

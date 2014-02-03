@@ -108,7 +108,58 @@ div.article-content > p:first-child:first-letter {
 }
 
 
-/** CLAREMONT **/
+/** Claremont Styles Rolled into Main Content **/
+.main-article,
+.main-article h1,
+.main-article h2,
+.main-article h3,
+.main-article h4,
+.main-article h5,
+.main-article h6,
+.main-article p,
+.main-article ul, .main-article ol, .main-article li,
+.main-article, .main-article dt, .main-article dd,
+.main-article blockquote {
+	font-family: georgia, 'Times New Roman', garamond, serif;	
+}
+
+.main-article,
+.main-article p,
+.main-article ul, .main-article ol, .main-article li,
+.main-article dl, .main-article dt, .main-article dd,
+.main-article blockquote {
+	font-size: 20px;
+	line-height: 32px;
+}
+
+
+.article-content h2 {
+	font-size: 42px;
+	line-height: 48px;
+	margin-top: 40px;
+	margin-bottom: 18px;
+}
+
+.article-content h3 {
+	font-size: 36px;
+	line-height: 40px;
+	margin-top: 36px;
+	margin-bottom: 12px;
+}
+
+.main-article dl {
+	padding: 0 20px;
+}
+
+.main-article dd {
+	padding-left: 20px;
+	margin-bottom: 32px;
+}
+
+
+
+
+/** CLAREMONT  **/
 
 .claremont,
 .claremont h1,
@@ -225,4 +276,37 @@ div.article-content > p:first-child:first-letter {
 	color: #222222;
 	font-size: 12px;
 	line-height: 10px;
+}
+
+
+/** Resume Styles **/
+
+.resume-position, .resume-skillset, .resume-school {
+	font-variant: small-caps;
+	font-weight: bold;
+	font-size: 24px;
+}
+
+.resume-skills {
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.resume-company, .resume-time, .resume-explanation {
+	font-weight: normal;
+	padding-left: 20px;
+
+}
+
+.resume-explanation {
+	font-style: italic;
+}
+
+.resume-time {
+	font-style: italic;
+	font-size: 16px;
+}
+
+.dt-multiple-dd {
+	margin-bottom: 32px;
 }
