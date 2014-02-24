@@ -53,7 +53,7 @@ The stuff - the subject matter - is amazing and fascinating. But that's only if 
 
 I know lots of people who can explain HOW Bitcoin works (for example). Tucker explains WHY it works, and WHY we should care. And he does this not for one or two isolated technologies or trends. He brings this ability to pretty much every major development and cultural trend of the last hundred years. Phenomenal.
 
-#### The Book as a Product, and more...
+#### The Book, as a Product, is... amazing
 
 The book itself is boundary-breaking, blithely ignoring both what you were taught about books in school and what passes for "common knowledge" among traditional book publishers. 
 
