@@ -5,7 +5,15 @@ author: Adam Michael Wood
 description: This book is amazing and everybody should read it.
 ---
 
-Finished reading Jeffrey Tucker﻿'s new book, Liberty is a DIY Project, last night.
+I finally finished reading Jeffrey Tucker's new book, <em>Liberty is a Do-it-yourself Project</em>, last night. The book was sent as a "perk" to early-bird members of the upcoming (and very exciting) [Liberty.me](http://liberty.me) online community. 
+
+Like Tucker's previous books, this is primarily a compilation of blog posts and essays written over the last year or two, covering a wide range of topics loosely related to liberty, anarchy, and <del>Austrian</del> real economics.
+
+With each new release in this "series," Tucker pushes the boundaries a little (or a lot) further in terms of what types of things "liberty-minded people" ought to be concerned with. Previous books have pushed the debate from the esoteric issues of sound money and natural law to the real-life issues of plumbing, laundry, and driving under the influence.
+
+This book is in that mold - but even more so. It's huge, and the range of topics is also huge. Yes, there's economic theory and political analysis. But there's also bedbugs, pop music, Twinkies, air conditioning, and all manner of various and sundry other things which all point in one direction: toward the liberation of humanity.
+
+I loved it.
  
  
 ### First - A Mild Critique
@@ -69,3 +77,19 @@ For one thing, it allows Tucker both the time and the mental energy to be contin
 Moreover, it takes some real intellectual bravery to focus on the dangerous thing (cutting-edge content) instead of on the safe thing (fixing grammar and spelling). 
 
 Most writers (myself included) don't have the guts for this, and we re-read and re-edit our work toward unattainable "perfection," instead of being out there doing what we should be doing: figuring shit out and telling people about it.
+
+
+### It's About Liberty
+
+There was the beginning of an idea way back in <em>Bourbon for Breakfast</em>. The idea grew and matured through <em>A Beautiful Anarchy</em>. Tucker's latest vision, [Liberty.me](http://liberty.me), is the embodiment of the idea, and this book is the heralding announcment that the idea has officially arrived.
+
+The idea?
+
+Liberty is not a political platform, and Freedom is not an economic program.
+
+Individual liberty, and freedom for all humanity, is a way of life. It is a worldview. It is an Open Source project to which all people are lead contributors with full commit privileges.
+
+We do not ask for Liberty. We liberate ourselves.  
+We do not demand Freedom. We free each other.
+
+
