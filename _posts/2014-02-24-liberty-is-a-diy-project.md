@@ -81,7 +81,7 @@ Most writers (myself included) don't have the guts for this, and we re-read and 
 
 ### It's About Liberty
 
-There was the beginning of an idea way back in <em>[Bourbon for Breakfast](http://www.amazon.com/gp/product/B0041HXMNU/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0041HXMNU&linkCode=as2&tag=musforsun-20)</em>. The idea grew and matured through <em>[A Beautiful Anarchy]http://www.amazon.com/gp/product/B0091XZFKW/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0091XZFKW&linkCode=as2&tag=musforsun-20)</em>. Tucker's latest vision, [Liberty.me](http://liberty.me), is the embodiment of the idea, and this book is the heralding announcment that the idea has officially arrived.
+There was the beginning of an idea way back in [Bourbon for Breakfast]( http://www.amazon.com/gp/product/B0041HXMNU/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0041HXMNU&linkCode=as2&tag=musforsun-20 ). The idea grew and matured through [A Beautiful Anarchy]( http://www.amazon.com/gp/product/B0091XZFKW/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0091XZFKW&linkCode=as2&tag=musforsun-20 ). Tucker's latest vision, [Liberty.me](http://liberty.me), is the embodiment of the idea, and this book is the heralding announcment that the idea has officially arrived.
 
 #### The idea?
 
