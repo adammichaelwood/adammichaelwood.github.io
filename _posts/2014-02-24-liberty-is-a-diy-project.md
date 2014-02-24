@@ -6,8 +6,9 @@ description: This book is amazing and everybody should read it.
 ---
 
 Finished reading Jeffrey Tucker﻿'s new book, Liberty is a DIY Project, last night.
-
-## First - A Mild Critique
+ 
+ 
+### First - A Mild Critique
 
 Many of the individual pieces were written as events were unfolding (commentary on Snowden case, developments in Bitcoin, etc), but no context (even a date) is provided, so it seems a little weird and rootless in places. 
 
@@ -17,11 +18,10 @@ But - if there is to be a second edition, or a general-audience release, it migh
 
 Okay - that aside:
 
-## THIS BOOK IS AMAZING AND EVERYBODY SHOULD READ IT
-
-There's a handful of different levels on which this book amazes. Here's a few:
-
-### The Subject Matter is Amazing
+### This Book is Amazing<br/>&amp; Everybody Should Read It 
+ 
+ 
+#### The Subject Matter is Amazing
 
 JT is describing a new world that is still in the process of being discovered and created. THAT WORLD is amazing. 
 
@@ -29,7 +29,7 @@ The things people are doing, the books people are writing, the ideas people are 
 
 It's all so incredible.
 
-### The Amazingness is amazingly communicated
+#### The Amazingness is amazingly communicated
 
 Tucker is perfect for this job. 
 
@@ -37,7 +37,7 @@ The stuff - the subject matter - is amazing and fascinating. But that's only if 
 
 I know lots of people who can explain HOW Bitcoin works (for example). Tucker explains WHY it works, and WHY we should care. And he does this not for one or two isolated technologies or trends. He brings this ability to pretty much every major development and cultural trend of the last hundred years. Phenomenal.
 
-### The Book as a Product, and more...
+#### The Book as a Product, and more...
 
 The book itself is boundary-breaking, blithely ignoring both what you were taught about books in school and what passes for "common knowledge" among traditional book publishers. 
 
@@ -46,7 +46,7 @@ For one thing, almost every single essay has already appeared somewhere online f
 It defies categories: is it a product that I would want to pay for? Is it a marketing artifact for Liberty.me? Yes to both. And the original articles and posts online - they are both a development environment for the content and a marketing device for the book (and online community).
 
 
-### Jeffrey Tucker Writes Like a Hacker
+#### Jeffrey Tucker Writes Like a Hacker
 
 The book is imperfect. And I mean that as a compliment. 
 
