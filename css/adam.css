@@ -55,6 +55,11 @@ body {
 	color: #222222;
 }
 
+.main-article h4 {
+	font-size: 24px;
+	font-weight: bold;
+}
+
 .main-article p {
 	text-align: justify;	
 	font-size: 20px;
