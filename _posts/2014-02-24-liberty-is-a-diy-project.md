@@ -1,6 +1,6 @@
 ---
 layout: essay
-title: "Book Review:<br/><em>Liberty is a Do-it-yourself Project</em><br/>by Jeffrey Tucker
+title: "Book Review:<br/><em>Liberty is a Do-it-yourself Project</em><br/>by Jeffrey Tucker"
 author: Adam Michael Wood
 description: This book is amazing and everybody should read it.
 ---
