@@ -28,7 +28,15 @@ Okay - that aside:
 
 ### This Book is Amazing<br/>&amp; Everybody Should Read It 
  
- 
+You are about to witness a proficient writer with a large vocabulary and access to a thesaurus completely lose the ability to think of any appropriate adjectives other than "amazing."
+
+The book was amazing. It's about amazing things.
+
+I can't figure out what else to call it. It's just... amazing.
+
+I'm amazed.
+
+
 #### The Subject Matter is Amazing
 
 JT is describing a new world that is still in the process of being discovered and created. THAT WORLD is amazing. 
