@@ -43,7 +43,7 @@ JT is describing a new world that is still in the process of being discovered an
 
 The things people are doing, the books people are writing, the ideas people are coming up with, the inventions people are inventing, the businesses people are starting.
 
-It's all so incredible.
+It's all so <del>incredible</del> amazing.
 
 #### The Amazingness is amazingly communicated
 
