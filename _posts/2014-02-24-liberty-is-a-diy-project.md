@@ -1,6 +1,6 @@
 ---
 layout: essay
-title: Book Review: Liberty is a Do-it-yourself Project, by Jeffrey Tucker
+title: Book Review - Liberty is a Do-it-yourself Project, by Jeffrey Tucker
 author: Adam Michael Wood
 description: This book is amazing and everybody should read it.
 ---
