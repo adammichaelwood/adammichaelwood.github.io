@@ -24,4 +24,38 @@ This exclusion, though hotly contested by proponents of minimum wage policies, c
 
 Naturally, this exclusion carries economic burdens for the most vulnerable members of our society: women, youth, immigrants, and the uneducated. But what about the spiritual and theological burden? And what about those who manage to actually get hired in jobs that pay minimum wage?
 
+Minimum Wage Thinking is based on a form of justice which Aquinas calls "Distributive Justice."
+
+>>The other [type of justice] consists in distribution, and is called distributive justice; whereby a ruler or a steward gives to each what his rank deserves. As then the proper order displayed in ruling a family or any kind of multitude evinces justice of this kind in the ruler, so the order of the universe, which is seen both in effects of nature and in effects of will, shows forth the justice of God.
+
+This form of justice belongs properly to God and, secondarily, to human rulers.
+
+(One assumes that distribution belongs to rulers inasmuch as they, like God, possess something which can be distributed to others for their personal benefit or for the benefit of the group over which the ruler has dominion. It would be a mistake, then, to use this definition as a justification for government officials to distribute that which does not belong to them but rather belongs to others. Moreover, it is fundamental to the entire conception of modern democracy that our elected officials are not rulers, but rather administrators, and so it would be improper to assign to them the privileges of rulers, in any case.)
+
+In a Minimum Wage context, this distributive justice replaces the form of justice proper to human economic activity, what Aquinas (after Aristotle) refers to as "commutative justice."
+
+>>There are two kinds of justice. The one consists in mutual giving and receiving, as in buying and selling, and other kinds of intercourse and exchange. This the Philosopher (Ethic. v, 4) calls commutative justice, that directs exchange and intercourse of business.
+
+Note that the practical details of commerce are not replaced by divine, distributive Justice; only the mental framework for understanding these things has been changed. The hard laws of economic reality - primarily the fact that people will not engage in transactions which they do not see as beneficial - cannot be disrupted. In fact, in any case wherein someone willingly gives more in a transaction than they receive in perceived value, we do not classify that as a higher form of justice but as a different virtue altogether - charity.
+
+From this essential mismatch - viewing the activities of commerce through the lens of distributive justice - flow a number of deleterious spiritual effects and erroneous theological conclusions.
+
+The most obvious problem is the equating of monetary value with human worth and dignity. This wrong-headed equation flows directly out of the basis for Minimum Wage Thinking - human beings deserve, intrinsically, some specific amount of money per unit of time. The implication here is that human life has a monetary value that can be calculated. Regardless of the monetary or transactional value that a person brings into an employer-employee relationship, they are - according to this mindset - being paid for their mere existence, because they deserve it.
+
+How then, with this understanding, can one account for the fact that some people are paid a great deal of money, while other people are paid minimum wage? In a realistic, commutative justice framework, the answer to this question is obvious: the employer thinks it is in their economic interest to pay this employee more than that employee. But in a universe that pays people because of their intrinsic worth, the only possible answer is that some people are intrinsically worth more than others.
+
+This notion of deserving and undeserving is a long-standing cultural problem in the United States, and is so embedded that even many opponents of minimum wage increases defend their (usually angry) rhetoric by stating that low-skilled workers don't "deserve" any more than they are currently getting.
+
+Obviously, the idea that some people are intrinsically worth more than other people, that some deserve more while others deserve less, is a perversion of both Christian morality and secular humanist ethics. And, while the temporal consequences of this error are felt primarily by the poor, it is largely the "deserving" rich who reap the rotten spiritual fruits.
+
+The number of instance of tragically-comic irony in this whole affair are too many to dwell on, as is usually the case whenever there is a massive intersection between the Law of Unintended Consequences and the phenomenon of Pathological Altruism. One in particular that is worth noting is that (despite their origin in racist eugenic social engineering) our modern minimum wage partisans usually denounce both the massive class gulf that separates low-wage workers (and the unemployable) from the wealthy and the obvious difference in worth and value attributed to the exalted rich and the discarded poor, and yet - in an attempt to rectify the situation caused by all this inequality and denigration - succeed only in reinforcing the destructive notion that one's material wealth is related to one's human worth.
+
+And it is not only that Minimum Wage Thinking stratifies the perception of human value in a quantitative manner (some are worth more or less), but also in a profoundly qualitative manner as well. That is, it seems that our current system, in addition to communicating that some people are better than others, also communicates that some people are an entirely different sort of person than others are.
+
+This happens in two very related ways.
+
+First, as stated above, distributive justice belongs properly to God and secondarily to rulers. 
+
+
+
 
