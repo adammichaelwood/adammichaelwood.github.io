@@ -54,7 +54,9 @@ And it is not only that Minimum Wage Thinking stratifies the perception of human
 
 This happens in two very related ways.
 
-First, as stated above, distributive justice belongs properly to God and secondarily to rulers. 
+First, as stated above, distributive justice belongs properly to God and secondarily to rulers. The activities of distributive justice belong to God first and foremost because God possesses all things, so any distribution must have its source in God, and secondly because God alone is capable of knowing what each person deserves and making both absolute and relative judgments about and between people. Distributive justice belongs to rulers only inasmuch as they manifest both of these qualities to a sufficient degree. Additionally, in the context of Aquinas' time and culture, it seems clear that the human rulers who must engage in distributive justice continue to possess, essentially, those goods which they have given to others, just as God continues to possess the land regardless of who currently occupies and tends it. Thus, the rulers spoken of are kings of nations or fathers of households, ultimate temporal owners of the property they allow to be held by those under their care.
+
+When this paradigm is applied to the interaction between workers and employers, it sets up an implicit ontological hierarchy in which the wealthy, along with the political class, stand in the place of God, as rulers over the population. This creates a power dynamic which is too-easily exploitable. Moreover, because of the underlying assumption that rulers, like God, forever possess and own the goods they distribute, the poor are robbed of their sense of personal agency, especially with regards to the one activity which could bring them permanently out of poverty - the accumulation of capital. After all, why attempt to accumulate and own something which is clearly owned perpetually by someone else?
 
 
 
