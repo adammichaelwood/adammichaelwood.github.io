@@ -58,6 +58,44 @@ First, as stated above, distributive justice belongs properly to God and seconda
 
 When this paradigm is applied to the interaction between workers and employers, it sets up an implicit ontological hierarchy in which the wealthy, along with the political class, stand in the place of God, as rulers over the population. This creates a power dynamic which is too-easily exploitable. Moreover, because of the underlying assumption that rulers, like God, forever possess and own the goods they distribute, the poor are robbed of their sense of personal agency, especially with regards to the one activity which could bring them permanently out of poverty - the accumulation of capital. After all, why attempt to accumulate and own something which is clearly owned perpetually by someone else?
 
+Secondly, even if we lay aside the notion that the employer-class is perceived to stand in place of Divine Authority over the worker class, the qualitative difference is still profound. In a transactional model of the employee-employer relationship, it is clear that - at least for the purposes of the transaction - the two parties are equal in power and dignity. That is, each side has the ability to enter into the transaction or to refuse to do so. Each side can make promises to the other, and can be held objectively accountable to the fulfillment of those promises. Each side can request whatever it wants from the other, and each side can refuse any such request.
+
+But in a worldview informed by Minimum Wage Thinking, there is no transaction. There is no negotiation, no mutual understanding. The balance of perceived power is skewed wholly toward the employer, and the employee must rely on an efficient third-party (the Government) for protection. It's possible to see this understanding in play in almost any conversation about "worker's rights" with the political supporters of "Labor." There is an almost pathological refusal to see or discuss the relationship between employees and employers as being in any way analogous to the relationship between buyers and sellers in any other context. (The weirdest manifestation of this pathology is the constant reversal of supply and demand language found on both the right and left in concepts like "job shortage" or "job creation.")
+
+This artificial dichotomy between the wealthy who employ and the non-wealthy who seek employment creates an impassable gulf between these two groups of people, turning a temporal economic circumstance into a permanent psychological reality. Thus we see how imposing an artificial valuation onto human beings, and insisting as a matter of justice that all people intrinsically deserve to receive some benefit which naturally would accrue to them only in exchange for equal value, perverts both justice and value, reducing the human being to little more than a "wage slave."
+
+It is precisely this mechanism which is also at work in modernist and liberal conceptions of salvation, particularly those incarnations of Universalism which hold that all people are saved simply because God created them good, and therefore all are deserving of heaven.
+
+This idea, which purports to exalt humanity and individual humans as worthy - and which self-consciously stands in contrast to an orthodox understanding of sin and redemption - succeeds only in diminishing any true understanding of our real worth and value, and alienating us from the God who poured out his divinity and laid down his life so that we may be no longer slaves, but friends and heirs.
+
+If we deserve salvation, then God - to whom belongs distributive justice - is obligated to provide it to us. There is, then, no mercy to temper justice. There is no relationship, only requirement. Critically, there is no transaction.
+
+Aquinas, in the passage referenced above, makes it clear that commutative justice is not proper to God, because God does not engage in commerce.
+
+>Commutative justice [. . .] directs exchange and intercourse of business. This does not belong to God, since, as the Apostle says: "Who hath first given to Him, and recompense shall be made him?" 
+
+In an absolute sense, this is accurate. And yet, the whole mystery of the Christian faith is that, through Christ, God does all sorts of things that do not belong to him. He is born into time, he suffers and dies. Between those events, he places himself lower than us, becoming a servant.
+
+St. Paul had little trouble using the language of transactions to explain salvation, telling the church in Corinth that they (and all of us) have been "bought with a price." But today, for a wide variety of reasons, we shy way from this language.
+
+I am suggesting here that a transaction - between ourselves and God - is a legitimate and worthwhile metaphor for the giving and receiving of God's saving grace.
+
+There are legitimate concerns about employing this metaphor, particularly the danger of suggesting that grace and salvation are earned by us. There is also, unfortunately, a strong bias in our present culture against the notion of transactions at all - a sad result of progressive anti-capitalist rhetoric.
+
+Regarding the danger of suggesting that salvation is something which has to be earned, we must go back to the problem presented by a Minimum Wage understanding of employment and pay. We typically talk about earning a salary, or earning our wages through our work. This is convenient shorthand in everyday life, but it carries with it the suggestion that by doing some task we then deserve to be paid some amount of money. In fact, that is precisely how most people understand employment. It is, however, completely inaccurate.
+
+The simple act of writing a novel, or balancing some accounting books, or mowing a lawn, or developing a piece of software - or any of the other things which people find to do for employment - does not earn anyone anything. No amount of work or labor causes a person to deserve to receive any amount of money. Rather, we receive money through transactions in which some person (or organization) gives us money in exchange for some perceived value we provide to them. We might provide that value in the form of lawn mowing or software writing, but we are not paid because we mowed the lawn - we are paid because someone else, who was able to pay us, felt it would be valuable to them for that lawn to be mowed. 
+
+It is the transaction that gets you paid, not the labor.
+
+If we understand that, and understand what a transaction is, the concerns over the inappropriateness or danger of this metaphor simply fall away.
+
+So what, then, is a transaction?
+
+A transaction is an exchange of value between two people. For all the paranoia surrounding buying and selling, for all the corrupting influence of money and power, the heart of all commerce is a transaction in which two people each give the other something voluntarily, something which each recipient perceives as more valuable than the thing they gave away.
+
+In all times and in all place, transactions have knitted communities together and have bridged the gulf between one society and the next. Whenever and wherever inequality of persons has been sanctioned and enforced by government authorities, the ability for legally unequal people to transact business with each other has been curtailed or prohibited. Transactions - free exchanges of value between equal people - are a fundamental characteristic of healthy human communities. They should be seen in a fully positive light, and conceptually worthy of being employed in the service of salvation theology.
+
 
 
 
