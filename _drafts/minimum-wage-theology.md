@@ -96,6 +96,23 @@ A transaction is an exchange of value between two people. For all the paranoia s
 
 In all times and in all place, transactions have knitted communities together and have bridged the gulf between one society and the next. Whenever and wherever inequality of persons has been sanctioned and enforced by government authorities, the ability for legally unequal people to transact business with each other has been curtailed or prohibited. Transactions - free exchanges of value between equal people - are a fundamental characteristic of healthy human communities. They should be seen in a fully positive light, and conceptually worthy of being employed in the service of salvation theology.
 
+And here is the transaction that takes place between ourselves and God - we give our lives to God, and God gives to us salvation and grace.
+
+But if we accept the heresy that we are worthy of salvation, that we deserve it, then nothing about this exchange is miraculous or even meaningful.
+
+In this theological version of Minimum Wage Thinking, God is obligated (by whom?) to provide a benefit to us. Since this benefit comes regardless of what we give to God, one must assume that any value we bring to God is meaningless. In other words, we are without value before God. By claiming a false worth, we declare that we are truly worthless.
+
+Moreover, just as the paradigm of Minimum Wage divides the employer and employee by replacing commutative justice with distributive justice, so too does this type of Universalism enforce a distributive relationship between us and God, a relationship such as that between a ruler and those ruled. But, however proper and right that relationship is, God has chosen to transgress the bounds of what is proper for the Almighty- pitching his tent among us, washing our feet like a slave, embracing us as friends, and promising us that we shall be like him.
+
+For all the feel-good arguments about the intrinsic worth of human beings, there is no reasonable way to believe that we deserve such lavishness and affection.
+
+Rather, we can imagine that God has engaged with us in a transaction, and understand just how much God values us.
+
+If we have received salvation and grace from God, we have received something of infinite and eternal value. And this must mean something quite amazing about how God views us.
+
+Whereas assuming our own worth ultimately denies it, accepting the fact of our unworthiness exalts us. For, in the transaction wherein we receive all that God has to offer, we give to God the only thing we have that he values. 
+
+God allows us to enter into a relationship that is fundamental to human flourishing, to approach the throne of heaven as an equal to the One who has no equal, and finally to see our selves, our lives, as God sees and receives them - as infinitely and eternally valuable to Him.
 
 
 
