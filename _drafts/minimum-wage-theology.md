@@ -4,7 +4,7 @@ Though a majority of people would disagree with this point, it is at least well 
 
 What is not widely understood, even by most Christian libertarians, is that this economically unsound principle is also grossly incorrect from a theological perspective, and that there is a cultural feedback loop between "minimum wage thinking" and destructive theologies of salvation and grace.
 
-This cultural feedback loop perverts our sense of the intersection between the natural economic order and the economy of salvation, and inverts our sense of the individual's place in relationship to other individuals, the community, and God.
+This cultural feedback loop perverts our sense of the intersection between the natural economic order and the economy of salvation, and inverts our sense of the individual's worth before God.
 
 Central to the philosophical blind-spot allowing this cultural feedback loop to go unnoticed even by people with otherwise sound judgement in both economics and theology is a mischaracterization of minimum wage principles as somehow communitarian or socialist, in opposition to a more individualistic paradigm favored by most libertarian thinkers, when, in fact, the exact opposite is the case.
 
