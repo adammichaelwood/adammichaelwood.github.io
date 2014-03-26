@@ -1,3 +1,11 @@
+---
+layout: essay
+title: Minimum Wage Thinking and Salvation Theology
+subtitle: On the Worth and Value of the Human Being
+author: Adam Michael Wood
+description: <p>The conception behind minimum wage laws - and any similar notion that supposes that employees should receive payment or benefits unrelated to the transactional value which they bring to their employers - is economically unsound.</p><p>Though most people in our culture today would disagree with this point, it is at least well understood by most libertarian and anarchist thinkers, as well as by any one who has ever run a business.</p><p>What is not widely understood, even by most Christian libertarians, is that this economically unsound principle is also deeply connected to unsound theology regarding the worth and value of the individual person before God and the nature of God's saving grace.</p>
+---
+
 The conception behind minimum wage laws - and any similar notion that supposes that employees should receive payment or benefits unrelated to the transactional value which they bring to their employers - is economically unsound.
 
 Though most people in our culture today would disagree with this point, it is at least well understood by most libertarian and anarchist thinkers, as well as by any one who has ever run a business.
@@ -24,7 +32,8 @@ Naturally, this exclusion carries economic burdens for the most vulnerable membe
 
 Minimum Wage Thinking is based on a form of justice which Aquinas calls "Distributive Justice."
 
->The other [type of justice] consists in distribution, and is called distributive justice; whereby a ruler or a steward gives to each what his rank deserves. As then the proper order displayed in ruling a family or any kind of multitude evinces justice of this kind in the ruler, so the order of the universe, which is seen both in effects of nature and in effects of will, shows forth the justice of God.
+>The other [type of justice] consists in distribution, and is called distributive justice; whereby a ruler or a steward gives to each what his rank deserves. As then the proper order displayed in ruling a family or any kind of multitude evinces justice of this kind in the ruler, so the order of the universe, which is seen both in effects of nature and in effects of will, shows forth the justice of God. 
+>[Summa Theologica: Pars Prima - Question 21, Article 1](http://www.newadvent.org/summa/1021.htm)
 
 This form of justice belongs properly to God and, secondarily, to human rulers.
 
