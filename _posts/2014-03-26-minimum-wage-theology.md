@@ -33,7 +33,7 @@ Naturally, this exclusion carries economic burdens for the most vulnerable membe
 Minimum Wage Thinking is based on a form of justice which Aquinas calls "Distributive Justice."
 
 >The other [type of justice] consists in distribution, and is called distributive justice; whereby a ruler or a steward gives to each what his rank deserves. As then the proper order displayed in ruling a family or any kind of multitude evinces justice of this kind in the ruler, so the order of the universe, which is seen both in effects of nature and in effects of will, shows forth the justice of God. 
->[Summa Theologica: Pars Prima - Question 21, Article 1](http://www.newadvent.org/summa/1021.htm)
+><br>[*Summa Theologica: Pars Prima - Q 21, Art 1*](http://www.newadvent.org/summa/1021.htm)
 
 This form of justice belongs properly to God and, secondarily, to human rulers.
 
