@@ -5,7 +5,7 @@ author: Adam Michael Wood
 ---
 
 "Nay, chiefly are we born to die,  
-it matters not" he says, and I, 
+it matters not" he says, and I,   
 though tempted, and like sailors drawn,  
 to siren calls that bid them on,  
  
