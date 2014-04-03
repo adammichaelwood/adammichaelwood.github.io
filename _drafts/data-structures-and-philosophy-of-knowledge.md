@@ -37,7 +37,7 @@ A well-designed data system would mirror this process almost exactly:
         .
         .
         .
-            public method age {
+            public method get_age {
                 //um... what's my age again?
                 bday = this.getBirthday();
                 //and, uh.... what's the date today?
@@ -63,9 +63,9 @@ Your database is supposed to know everything, and always be right. But facts cha
 Medieval philosophers had a similar, but much more fundamental question:
 God knows everything, and is always right. Facts change. **But God cannot change.** How can God know about things if He doesn't change, but things do?
 
-> **Whether the knowledge of God is variable?*
+> **Whether the knowledge of God is variable?**
 >
->Objection 1:
+>Objection 1:  
 >It seems that the knowledge of God is variable. For knowledge is related to what is knowable. But whatever imports relation to the creature is applied to God from time, and varies according to the variation of creatures. Therefore the knowledge of God is variable according to the variation of creatures.
 >
 >[Thomas Aquinas, Summa Theologica, Pars Prima - Question 14, Article 15](http://home.newadvent.org/summa/1014.htm#article15)
