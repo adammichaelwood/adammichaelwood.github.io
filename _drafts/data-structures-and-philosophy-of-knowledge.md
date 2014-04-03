@@ -5,7 +5,7 @@ subtitle: On (Not) Modeling How We Know Things
 author: Adam Michael Wood
 ---
 
-Sometimes bad programming is just bad programming: people write sloppy code, people don't know how things are supposed to work, people forget that bimary math is weird sometimes.
+Sometimes bad programming is just bad programming: people write sloppy code, people don't know how things are supposed to work, people forget that binary math is weird sometimes.
 
 But often, bad programming is a result of bad philosophy - a fundamental misunderstanding of how meaning is made, or thought works, or how the world is structured. Sometimes the fault is a little less radical, tied to ignorance of some domain-specific facts, but often it's just plain bad philosophy.
 
