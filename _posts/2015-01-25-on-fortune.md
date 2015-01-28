@@ -40,7 +40,7 @@ that fortune is a ray of grace's light,
 for every saint endures a trial bitter,  
 and every tyrant sleeps in peace by night.  
 
-Do not forget- yea, do not be mistaken-  
+Do not forget- yea, do not be mistaken---  
 for homelessness is all our native state,  
 and lest your faith by worldly ills be shaken,  
 be mindful of the life for which you wait.  
