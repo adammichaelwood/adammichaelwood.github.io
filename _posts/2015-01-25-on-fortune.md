@@ -46,7 +46,7 @@ and lest your faith by worldly ills be shaken,
 be mindful of the life for which you wait.  
 
 Strawdogs we, and servants made to be,  
-and only God's own grace has drawn us higher-
+and only God's own grace has drawn us higher---  
 Not in our station, nor in ways we see:  
 Salvation and The World do not conspire.  
 
