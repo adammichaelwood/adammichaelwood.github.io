@@ -4,7 +4,7 @@ title: Writing Portfolio
 subtitle: A sample of things I have written
 ---
 
-## Technical Content Writing --- Web, Web Hosting, and Social Media
+## Technical Content Writing
 
 ### Long-form guides
 
@@ -30,7 +30,7 @@ subtitle: A sample of things I have written
  - [NoSQL Databases](http://www.whoishostingthis.com/compare/databases/nosql/)
  - [Common Lisp](http://www.whoishostingthis.com/resources/common-lisp/)
 
-#### Tech Evangelism
+#### Open Source Evangelism
 
  - [Open Source for Sacred Music Infrastructure](http://adammichaelwood.com/open-source-for-sacred-music-infrastructure/) 
  - [Open Source Prayer Book](http://progressivesolemnity.org/2015/10/20/open-source-prayerbook/)
