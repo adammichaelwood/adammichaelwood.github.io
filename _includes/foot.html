@@ -14,5 +14,12 @@
 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	})();
    </script>
+   
+   <!-- Make outside links target=blank -->
+   <script>
+   $(document.links).filter(function() {
+    return this.hostname != window.location.hostname;
+     }).attr('target', '_blank');
+   </script>
   </body>
 </html>
