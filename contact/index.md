@@ -4,7 +4,7 @@ title: Adam Michael Wood
 subtitle: Contact
 ---
 
-Google - mail and chat
+Google - gmail and chat
 adam.michael.wood
 
 Google+

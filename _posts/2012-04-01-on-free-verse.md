@@ -2,43 +2,41 @@
 layout: poem
 title: On Free Verse
 author: Adam Michael Wood
-description: Not for me, the free-verse verses,<br/>curses. worse! those terse reverses.
+description: "Not for me, the free-verse verses,<br/>curses. worse! those terse reverses."
 ---
 
-Not for me, the free-verse verses,
+Not for me, the free-verse verses,  
 curses. worse! those terse reverses.
 
-I prefer my diction airy,
+I prefer my diction airy,  
 love should be joyful; terror, scary.
 
-How, without rhyme, can the ear be undone?
+How, without rhyme, can the ear be undone?  
 What good is a poem not meant for the tongue?
 
-"Nay!" to the nihilist nabobs of knowledge,
+"Nay!" to the nihilist nabobs of knowledge,  
 you godless creations of mandated college.
 
-Art's not for asking, "now, what might this mean?"
+Art's not for asking, "now, what might this mean?"  
 It's for wooing and warring, and all things between.
 
-So give me some Shel, in the attic I'll read,
+So give me some Shel, in the attic I'll read,  
 or slip me a Byron to make my heart bleed.
 
-Send me with Shakespeare or Marlowe to bed
+Send me with Shakespeare or Marlowe to bed  
 (I know yeah, I know- white men who are dead).
 
-Bring Old Uncle Walt, either Whitman or other,
+Bring Old Uncle Walt, either Whitman or other,  
 (The first one for me, and the last for my brother)
 
-Bring all the old leather-bound volumes of yore
+Bring all the old leather-bound volumes of yore  
 let unrhymed, unfeeling verse fall to the floor.
 
-Bring Geisel, bring David, bring Edgar A. Poe
+Bring Geisel, bring David, bring Edgar A. Poe  
 (you wouldn't believe the strange places they go).
 
-Fiddle my heart-strings, tam-tam on my ears
+Fiddle my heart-strings, tam-tam on my ears  
 with words that have bested the test of the years.
 
-For it's truth, and not freedom, that sets the heart free.
+For it's truth, and not freedom, that sets the heart free.  
 So your so called "free" verse- it just isn't for me.
-
-//END//

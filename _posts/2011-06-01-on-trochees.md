@@ -2,9 +2,9 @@
 layout: poem
 title: On Trochees
 author: Adam Michael Wood
-description: Why do all these trochee poems <br/>feel so primal, taste like rhythm? <br/>Why the writer's forward motion <br/>to the meter, just as given?
----
-  
+description: "Why do all these trochee poems <br/>feel so primal, taste like rhythm? <br/>Why the writer's forward motion <br/>to the meter, just as given?"
+--- 
+
 Why do all these trochee poems  
 feel so primal, taste like rhythm?  
 Why the writer's forward motion  
