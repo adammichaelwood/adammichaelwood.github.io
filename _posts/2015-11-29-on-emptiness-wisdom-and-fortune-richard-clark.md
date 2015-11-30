@@ -1,10 +1,11 @@
 ---
 layout: essay
-title: "<i>On Emptiness, Wisdom, and Fortune</i> with Richard Clark"
+title: "On Emptiness, Wisdom, and Fortune with Richard Clark"
+description: "My friend, the composer Richard Clark, recently used excerpts of two of my poems as the basis for a choral work."
 author: Adam Michael Wood
 ---
 
-My friend the composer [Richard Clark](http://www.rjcceciliamusic.com/) recently used excerpts of two of my poems, [On Fortune](http://adammichaelwood.com/on-fortune/) and [On Emptiness](http://adammichaelwood.com/on-emptiness/), as the basis for a choral work he title [On Emptiness, Wisdom, and Fortune](https://youtu.be/NBDXuLBURlI).
+My friend, the composer [Richard Clark](http://www.rjcceciliamusic.com/), recently used excerpts of two of my poems, [On Fortune](http://adammichaelwood.com/on-fortune/) and [On Emptiness](http://adammichaelwood.com/on-emptiness/), as the basis for a choral work he title [On Emptiness, Wisdom, and Fortune](https://youtu.be/NBDXuLBURlI).
 
 The piece was commissioned by the [Seraphim Singers](http://www.seraphimsingers.org/), who premiered it in October of 2015.
 
