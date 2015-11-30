@@ -27,5 +27,20 @@
       <script src="../../assets/js/respond.min.js"></script>
     <![endif]-->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ site.feed }}" />
+
+<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="{{ page.title }}" />
+
+{% if page.image %}
+<meta property="og:image" content="{{ site.url }}{{ page.image }}" />
+{% else %}
+<meta property="og:image" content="{{ site.url }}/assets/images/adam-face.jpg" />
+{{ endif }}
+
+{% if page.description %}
+<meta property="og:description" content="{% page.description" />
+{% endif %}
+
   </head>
     <body>
