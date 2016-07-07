@@ -13,16 +13,22 @@ The API will allow Customers, or Customer Agents, to add and edit WOs from appli
 
 API
  :  The set of web accessible method explained herein, which are accessible remotely by an API Client for the purpose of creating, editing, and viewing WOs.
+
 Customer
  :  A company which has contracted with [REDACTED] or [REDACTED] in order to receive managed towing services.
+
 Customer Agent
  :  A non-customer entity which acts on behalf of one or more customers to add, edit, or otherwise manage WOs via an API Client.
+
 API User
  :  A Customer or Customer Agent with a unique identity and login credentials for accessing the API.
+
 API Client _or_ Client
  :  A software application which makes calls to the API and provides some sort of interface to people or systems of a customer or Customer Agent.
+
 Word Order _or_ WO
  :  The record of a single service request related to a single vehicle involved in a single incident.
+
 The Application _or_ The Primary Application
  :  The [REDACTED] web-app and its associated database, accessible at http://[REDACTED].com
 
