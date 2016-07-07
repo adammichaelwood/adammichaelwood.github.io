@@ -2,7 +2,7 @@
 layout: poem
 title: On Pragmatic Theologians
 author: Adam Michael Wood
-description: "O practiced hand of theory, ever taking<br/>paths that lead to "useful," even making<br/>knowledge of divine like kit instructions<br/>turning points of dogma into functions"
+description: 'O practiced hand of theory, ever taking<br/>paths that lead to "useful," even making<br/>knowledge of divine like kit instructions<br/>turning points of dogma into functions'
 ---
 
 O practiced hand of theory, ever taking  
