@@ -7,20 +7,20 @@ subtitle: RESTful Web Service Documentation Example
 _A (slightly modified) API document I wrote while working at FTI Groups, Inc._
 
 ## Purpose
-The API will allow Customers, or Customer agents, to add and edit WOs from applications other than the primary [REDACTED] application.
+The API will allow Customers, or Customer Agents, to add and edit WOs from applications other than the primary [REDACTED] application.
 
 ## Definitions
 
 API
- :  The set of functions and functionalities explained herein, which are accessible remotely by an API Client, for the purpose of creating, editing, and viewing WOs.
+ :  The set of web accessible method explained herein, which are accessible remotely by an API Client for the purpose of creating, editing, and viewing WOs.
 Customer
  :  A company which has contracted with [REDACTED] or [REDACTED] in order to receive managed towing services.
-Customer agent
+Customer Agent
  :  A non-customer entity which acts on behalf of one or more customers to add, edit, or otherwise manage WOs via an API Client.
 API User
- :  A Customer or Customer agent with a unique identity and login credentials for accessing the API.
+ :  A Customer or Customer Agent with a unique identity and login credentials for accessing the API.
 API Client _or_ Client
- :  A software application which makes calls to the API and provides some sort of interface to people or systems of a customer or customer agent.
+ :  A software application which makes calls to the API and provides some sort of interface to people or systems of a customer or Customer Agent.
 Word Order _or_ WO
  :  The record of a single service request related to a single vehicle involved in a single incident.
 The Application _or_ The Primary Application
@@ -30,11 +30,11 @@ The Application _or_ The Primary Application
 
  - Each API User will be issued a unique API key and password. Each Customer already has a unique Customer ID in the Primary Application.
  - Any Customer may be linked to a Customer Agent. This linkage gives the Agent the right to add new WO’s into the database via the API, and to view or edit any WOs which that agent created. A Customer Agent DOES NOT have the right to edit or view Customer WOs which it did not create, even when it is an agent for that Customer.
+
  - When making calls to the API, the Client will typically send three identifying strings:
     - the API Username,
     - the API Key, and
     - the Customer Number.
-
  - Customer Agents may send certain calls (eg. data requests for multiple customers) with only their API Username and API Key.
  - All calls to the API require these identifying strings. Creating and populating a WO will require multiple calls (see below) and each requires all identifying strings.
     - That is: The web API does not create a user session. Each call, even in a series of calls for a single work order, is a separate transaction.
@@ -44,7 +44,7 @@ The Application _or_ The Primary Application
 
  - API client makes a call to create a WO.
     - This creates an empty WO in the status of `Building`.
-    - _NB: WOs in `Building` do not appear on any screens in the application._
+    - _NB: WOs in `Building` do not appear on any screens in the Application._
  - The `username` in the initial API call identifies who (among the Customer and its Agent[s]) created the WO. This is stored in the WO record as the `WO_Creator`.
  - The response to the CreateWO function (defined below in more detail) includes the WO#, so that the calling application can properly populate the WO.
  - The client will then make a series of calls to populate the WO.
@@ -59,11 +59,10 @@ The Application _or_ The Primary Application
  - The client is able to make calls to `getFullWO` in order to access the WO data after creation. There are also methods for updating/adding information on a Work Order, and batch methods for retrieving information on sets of Work Orders.
 
 
-# Methods
+## Methods
 
 
-
-## ALL METHODS
+### ALL METHODS
 
 #### Parameters
 
@@ -138,11 +137,11 @@ _Default only._
 #### Response
 
  - Return
-    - WO Service Type (string)
-    - WO Vehicle (string)
-    - WO Pickup Location (lat, long)
-    - WO Destination Location (lat, long)
-    - WO Insurance (str)
+    - WO Service Type
+    - WO Vehicle
+    - WO Pickup Location
+    - WO Destination Location
+    - WO Insurance
     - WO Notes (set of objects):
        - datetime
        - username
@@ -153,6 +152,7 @@ _Default only._
        - name (str)
        - url (str)
 
+_NB: See addenda for full list of fields and formats for Return information._
 
 ## WO Population Methods
 
@@ -355,7 +355,7 @@ _Returns all WOs based on field “Submitted Date”._
 
 ### `GetWOsByCustomer`
 
-_Used by a multi-customer agent, to retrieve all active WOs for a customer._
+_Used by a multi-Customer Agent, to retrieve all active WOs for a customer._
 
 #### Parameters
 
