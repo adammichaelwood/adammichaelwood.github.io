@@ -26,7 +26,7 @@ API User
 API Client _or_ Client
  :  A software application which makes calls to the API and provides some sort of interface to people or systems of a customer or Customer Agent.
 
-Word Order _or_ WO
+Work Order _or_ WO
  :  The record of a single service request related to a single vehicle involved in a single incident.
 
 The Application _or_ The Primary Application
@@ -36,7 +36,6 @@ The Application _or_ The Primary Application
 
  - Each API User will be issued a unique API key and password. Each Customer already has a unique Customer ID in the Primary Application.
  - Any Customer may be linked to a Customer Agent. This linkage gives the Agent the right to add new WO’s into the database via the API, and to view or edit any WOs which that agent created. A Customer Agent DOES NOT have the right to edit or view Customer WOs which it did not create, even when it is an agent for that Customer.
-
  - When making calls to the API, the Client will typically send three identifying strings:
     - the API Username,
     - the API Key, and
