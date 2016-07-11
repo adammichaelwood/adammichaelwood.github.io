@@ -4,6 +4,11 @@ title: Writing Portfolio
 subtitle: A sample of things I have written
 ---
 
+## Technical Writing
+
+ - [Web API Documentation](http://adammichaelwood.com/portfolio/dispatch-api/)
+ - [User and Developer Documentation for Hosted JavaScript Application](http://privacypolicies.com/cookie-consent/)
+
 ## Technical Content Writing
 
 ### Long-form guides
@@ -36,6 +41,14 @@ subtitle: A sample of things I have written
  - [Open Source Prayer Book](http://progressivesolemnity.org/2015/10/20/open-source-prayerbook)
  - [Open Metrical Psalm project and Beginners Guide to GitHub](http://www.chantcafe.com/2014/11/open-metrical-psalm-project-and.html)
  - [CMAA: Now with 100% More Github](http://www.chantcafe.com/2013/04/cmaa-now-with-100-more-github.html)
+
+<div class="well">
+<strong>Featured in Wired!</strong>
+
+My writing about Open Source (well... Open Content, really) got me <a href="http://www.wired.com/2013/05/gregorian_github/">featured in Wired</a>. See <a href="http://www.chantcafe.com/2013/05/how-and-why-chant-cafe-was-in-wired.html">this article</a> for the whole story of how it happened.
+
+</div>
+
 
 ## Other Writing
 
