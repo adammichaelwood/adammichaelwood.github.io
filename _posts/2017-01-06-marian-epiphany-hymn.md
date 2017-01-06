@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: O Gracios Dwelling
+title: O Gracious Dwelling
 subtitle: Marian Hymn for the Epiphany
 author: Adam Michael Wood
 description: "O gracious dwelling of our King<br>
