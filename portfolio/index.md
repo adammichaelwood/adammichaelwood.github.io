@@ -6,7 +6,7 @@ subtitle: A sample of things I have written
 
 ## Technical Writing --- Documentation
 
- - [User and Developer Documentation for Chatbot Platform](http://docs.botcentral.com)
+ - [User and Developer Documentation for Chatbot Platform](http://docs.botcentral.ai)
  - [User and Developer Documentation for Web Notification Application](https://help.intempt.com)
  - [API Documentation for Dispatch System](http://adammichaelwood.com/portfolio/dispatch-api/)
  - [Developer Documentation for Hosted JavaScript Application](http://privacypolicies.com/cookie-consent/)
