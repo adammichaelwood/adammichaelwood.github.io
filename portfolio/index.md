@@ -28,7 +28,7 @@ subtitle: A sample of things I have written
 
 <div class="well">
 <strong>Public Speaking</strong>
-Two of my blog posts ([here](http://hackwrite.com/posts/enough-to-be-dangerous/) and [here](http://hackwrite.com/posts/what-and-how-much-to-learn/)) formed the basis of a talk I gave at the San Francisco Write the Docs Meetup.
+Two of my blog posts (<a href="http://hackwrite.com/posts/enough-to-be-dangerous/">here</a>) and <a href="http://hackwrite.com/posts/what-and-how-much-to-learn/">here</a>) formed the basis of a talk I gave at the San Francisco Write the Docs Meetup.
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/eJtFpGx-iA4?start=1715' frameborder='0' allowfullscreen></iframe></div>
 
