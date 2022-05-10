@@ -2,8 +2,8 @@ title:            Adam Michael Wood
 tagline:          Essays and Poems
 description:      'Liturgy, theology, music, economics, politics, heresy, libertarianism, open source, development.'
 #Comment out url when working locally to resolve base urls correctly
-url: http://adammichaelwood.com
-feed:             http://adammichaelwood.com/feed.xml
+url: https://adammichaelwood.com
+feed:             https://adammichaelwood.com/feed.xml
 encoding: utf-8
 
 # Owner/author information
@@ -15,7 +15,7 @@ owner:
   #twitter:                
   github:   adammichaelwood       
   facebook: wood.adam.michael
-  contact: http://adammichaelwood.com/contact         
+  contact: https://adammichaelwood.com/contact         
   #dribbble:       
   #disqus:         
   # Plug in your disqus shortname!
