@@ -3,7 +3,6 @@ layout: poem
 title: I Am The Resurrection
 subtitle: Funeral Procession
 author: Adam Michael Wood
-description: '"I am the Resurrection," he said, "the Life am I."<br/>And who in Him have kept faith, not one of them shall die.'
 ---
 
 "I AM the Resurrection," he said, "the Life am I."  
